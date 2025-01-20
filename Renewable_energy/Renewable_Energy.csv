@@ -1,0 +1,1001 @@
+"Region";"Country";"Energy_Source";"Monthly_Usage_kWh";"Household_Size";"Income_Level";"Urban_Rural";"Adoption_Year";"Subsidy_Received";"Cost_Savings_USD"
+"North America";"USA";"Hydro";1043.49;5;"Low";"Urban";2012;"No";10.46
+"Australia";"Australia";"Geothermal";610.01;4;"High";"Rural";2023;"No";43.49
+"North America";"USA";"Biomass";1196.75;8;"Low";"Rural";2017;"Yes";93.28
+"South America";"Colombia";"Biomass";629.67;7;"High";"Urban";2023;"No";472.85
+"Africa";"Egypt";"Hydro";274.46;7;"Middle";"Rural";2010;"No";65.98
+"South America";"Brazil";"Biomass";375.99;2;"High";"Urban";2011;"No";20.93
+"Africa";"Ghana";"Geothermal";547.5;8;"High";"Rural";2012;"Yes";21.99
+"Australia";"New Zealand";"Geothermal";759.23;4;"Low";"Urban";2020;"Yes";127.02
+"South America";"Peru";"Biomass";571.7;6;"Low";"Rural";2021;"Yes";199.2
+"South America";"Argentina";"Geothermal";851.77;8;"High";"Urban";2019;"Yes";108.09
+"Europe";"Germany";"Wind";385.35;8;"Middle";"Urban";2018;"No";190.91
+"Europe";"France";"Hydro";1315.9;7;"Middle";"Rural";2015;"Yes";309.88
+"Asia";"South Korea";"Wind";60.12;5;"Middle";"Rural";2019;"Yes";445.11
+"South America";"Chile";"Geothermal";1001.42;8;"Middle";"Urban";2021;"Yes";483.41
+"Africa";"Ghana";"Biomass";1349.51;2;"Low";"Rural";2012;"Yes";340.29
+"Africa";"South Africa";"Geothermal";764.42;7;"High";"Rural";2022;"No";391.14
+"Asia";"India";"Wind";745.47;5;"Low";"Urban";2010;"Yes";378.25
+"Asia";"Indonesia";"Hydro";598.71;3;"High";"Rural";2012;"Yes";181.65
+"Asia";"China";"Wind";733.7;3;"Low";"Rural";2019;"Yes";168.73
+"Europe";"Spain";"Solar";336.45;2;"High";"Rural";2013;"No";489.73
+"Australia";"New Zealand";"Solar";880.87;4;"Middle";"Urban";2020;"No";483.96
+"Africa";"Ghana";"Solar";1311.18;1;"High";"Rural";2018;"No";88.96
+"Europe";"Italy";"Hydro";130.66;4;"Middle";"Urban";2010;"No";420.79
+"Asia";"Indonesia";"Solar";124.44;6;"High";"Rural";2013;"Yes";217.69
+"Europe";"Italy";"Wind";1377.88;4;"Low";"Rural";2020;"Yes";228.95
+"Africa";"Ghana";"Biomass";59.94;8;"Middle";"Rural";2014;"Yes";14.19
+"Africa";"Nigeria";"Geothermal";1185.31;7;"High";"Urban";2014;"Yes";25.91
+"North America";"USA";"Solar";496.13;3;"High";"Urban";2011;"Yes";305.75
+"Africa";"Egypt";"Wind";1313.73;8;"High";"Rural";2014;"No";38.77
+"South America";"Colombia";"Hydro";1212.39;8;"High";"Rural";2023;"No";349.67
+"South America";"Argentina";"Wind";632.76;6;"Low";"Rural";2010;"No";47.87
+"Australia";"Australia";"Wind";1062.08;5;"Middle";"Urban";2015;"No";84.08
+"Europe";"Germany";"Geothermal";1003.4;1;"Low";"Rural";2019;"Yes";168.1
+"South America";"Colombia";"Solar";1311.28;6;"Low";"Rural";2019;"Yes";467.23
+"Africa";"Kenya";"Solar";1363.84;1;"Low";"Rural";2021;"Yes";49.93
+"Asia";"Japan";"Biomass";1237.8;8;"Low";"Urban";2020;"No";310.58
+"Asia";"Japan";"Hydro";367.1;6;"High";"Rural";2014;"Yes";27.82
+"Australia";"Australia";"Biomass";128.28;3;"Middle";"Urban";2015;"Yes";135.61
+"Australia";"New Zealand";"Solar";396.76;5;"High";"Urban";2014;"No";392.42
+"North America";"USA";"Biomass";228.6;2;"High";"Rural";2014;"Yes";186.42
+"North America";"Canada";"Solar";1450.44;1;"Low";"Rural";2019;"No";134.22
+"Asia";"Japan";"Solar";1352.55;4;"Low";"Urban";2017;"Yes";143.43
+"Australia";"New Zealand";"Geothermal";1213.95;5;"High";"Urban";2016;"No";312.68
+"Africa";"Kenya";"Solar";1468.33;1;"High";"Rural";2010;"Yes";156.85
+"North America";"Mexico";"Solar";138.11;2;"High";"Rural";2013;"No";218.23
+"Australia";"Australia";"Biomass";1190.76;4;"Middle";"Rural";2011;"Yes";155.12
+"Asia";"Japan";"Geothermal";508.24;8;"Low";"Rural";2014;"Yes";370.51
+"Australia";"Australia";"Geothermal";479.92;6;"High";"Urban";2011;"Yes";158.06
+"North America";"USA";"Solar";286.32;3;"Low";"Urban";2020;"Yes";434.88
+"Africa";"Kenya";"Geothermal";889.87;4;"Middle";"Rural";2020;"No";234.43
+"Europe";"France";"Hydro";1413.96;1;"Middle";"Rural";2011;"Yes";324.11
+"Europe";"UK";"Wind";505.08;8;"Low";"Urban";2015;"Yes";101.53
+"Europe";"France";"Biomass";257.72;2;"Low";"Rural";2012;"Yes";135.01
+"Africa";"Egypt";"Wind";321.96;2;"Middle";"Urban";2021;"No";274.07
+"Africa";"Ghana";"Wind";659.74;1;"Middle";"Urban";2011;"No";408.35
+"North America";"USA";"Biomass";1343.62;7;"High";"Rural";2021;"No";268.8
+"Australia";"Australia";"Solar";446.89;8;"High";"Urban";2017;"Yes";426.87
+"Asia";"India";"Biomass";1138.1;2;"Middle";"Urban";2021;"No";27.22
+"Europe";"UK";"Wind";565.18;6;"High";"Urban";2015;"Yes";396.74
+"Africa";"South Africa";"Solar";1367.76;2;"Low";"Urban";2011;"Yes";372.64
+"North America";"USA";"Solar";97.28;7;"Low";"Rural";2012;"No";323.83
+"Europe";"France";"Hydro";92.4;6;"Low";"Urban";2010;"No";249.18
+"Asia";"India";"Geothermal";573.54;1;"Middle";"Urban";2018;"No";139.96
+"North America";"USA";"Wind";225.32;2;"Low";"Rural";2012;"No";231.42
+"South America";"Chile";"Geothermal";552.34;2;"Low";"Rural";2014;"Yes";325.75
+"South America";"Colombia";"Biomass";938.79;4;"Low";"Urban";2021;"Yes";432.85
+"Europe";"Germany";"Hydro";158.61;1;"Low";"Rural";2019;"Yes";202.18
+"South America";"Colombia";"Wind";1107.13;2;"Middle";"Rural";2016;"Yes";119.49
+"Asia";"India";"Solar";1472.46;2;"Middle";"Rural";2013;"No";78.66
+"Australia";"New Zealand";"Solar";915.26;6;"Middle";"Rural";2014;"Yes";238.18
+"South America";"Peru";"Geothermal";1487.76;7;"High";"Urban";2023;"Yes";278.7
+"South America";"Brazil";"Geothermal";1067.49;6;"High";"Urban";2022;"Yes";148.85
+"South America";"Peru";"Geothermal";262.1;6;"High";"Rural";2011;"No";34.94
+"Asia";"India";"Wind";353.84;8;"Middle";"Urban";2013;"No";447.73
+"South America";"Chile";"Biomass";141.67;7;"Middle";"Rural";2018;"No";336.72
+"Asia";"India";"Solar";480.38;3;"Middle";"Urban";2013;"No";312.34
+"Africa";"Ghana";"Wind";1070.46;6;"Low";"Rural";2023;"No";435.48
+"Africa";"Kenya";"Hydro";362.72;4;"Low";"Rural";2020;"Yes";437.57
+"Europe";"France";"Wind";1014.23;1;"High";"Urban";2023;"No";388.25
+"Europe";"Italy";"Biomass";173.5;8;"Low";"Urban";2018;"Yes";426.4
+"North America";"Mexico";"Geothermal";1315.86;1;"Middle";"Urban";2010;"No";406.14
+"South America";"Brazil";"Wind";290.7;3;"Low";"Rural";2014;"Yes";31.15
+"Asia";"South Korea";"Solar";1346.3;3;"Low";"Urban";2021;"Yes";439.83
+"North America";"USA";"Wind";517.87;1;"Low";"Rural";2019;"Yes";226.61
+"South America";"Peru";"Geothermal";620.95;4;"High";"Rural";2014;"Yes";210.43
+"South America";"Peru";"Solar";755.88;1;"High";"Rural";2016;"No";94.79
+"Europe";"Spain";"Biomass";1336.27;6;"Low";"Urban";2015;"No";216.19
+"Europe";"Spain";"Wind";801.46;2;"High";"Urban";2018;"No";403.96
+"South America";"Peru";"Wind";1181.83;8;"Low";"Urban";2012;"No";230.34
+"South America";"Chile";"Hydro";508.47;2;"Low";"Urban";2014;"Yes";394.27
+"Asia";"Indonesia";"Hydro";1131.03;6;"Middle";"Urban";2020;"Yes";242.41
+"North America";"Mexico";"Biomass";1337.29;8;"High";"Rural";2013;"No";72.06
+"North America";"Canada";"Geothermal";312.43;6;"Middle";"Rural";2022;"Yes";290.55
+"North America";"Canada";"Solar";1086.7;4;"Low";"Urban";2012;"No";349.26
+"Africa";"Egypt";"Biomass";1377.82;5;"Middle";"Urban";2019;"No";190.78
+"Asia";"Japan";"Solar";195.58;1;"Middle";"Rural";2013;"No";29.13
+"North America";"Mexico";"Biomass";1359.83;3;"Middle";"Rural";2018;"Yes";67.58
+"Europe";"Spain";"Wind";790.41;7;"Middle";"Rural";2015;"Yes";467.87
+"South America";"Brazil";"Biomass";783.83;2;"Low";"Urban";2011;"Yes";373.55
+"Asia";"Indonesia";"Geothermal";1199.26;3;"Middle";"Urban";2013;"Yes";446.3
+"Europe";"UK";"Solar";617.86;2;"High";"Rural";2011;"No";59.81
+"Africa";"Nigeria";"Biomass";56.77;7;"Low";"Rural";2019;"Yes";346.91
+"South America";"Peru";"Solar";349.19;8;"Middle";"Rural";2018;"No";291.84
+"North America";"USA";"Biomass";126.98;5;"Low";"Urban";2015;"No";188.27
+"Europe";"Italy";"Hydro";1380.58;7;"Low";"Rural";2022;"Yes";477.47
+"North America";"USA";"Wind";1148.49;7;"High";"Urban";2011;"Yes";230.07
+"Africa";"Ghana";"Biomass";275.6;3;"Middle";"Urban";2010;"No";334.9
+"South America";"Argentina";"Biomass";657.47;8;"High";"Rural";2013;"Yes";174.62
+"South America";"Chile";"Wind";68.97;7;"High";"Urban";2021;"No";222.89
+"South America";"Colombia";"Hydro";397.97;5;"Low";"Urban";2022;"Yes";164.82
+"Europe";"France";"Geothermal";1404.65;6;"High";"Rural";2012;"Yes";240.32
+"Asia";"Indonesia";"Hydro";120.82;6;"High";"Rural";2010;"Yes";170.0
+"Australia";"Australia";"Biomass";685.94;4;"Middle";"Urban";2021;"Yes";370.77
+"Australia";"Australia";"Wind";87.36;3;"Middle";"Urban";2023;"Yes";295.17
+"Asia";"China";"Wind";589.71;5;"Middle";"Rural";2017;"Yes";450.44
+"Australia";"New Zealand";"Wind";725.7;7;"High";"Rural";2015;"No";180.48
+"Australia";"Australia";"Wind";327.66;5;"Middle";"Urban";2015;"No";261.31
+"North America";"Canada";"Hydro";288.77;8;"High";"Rural";2017;"Yes";247.52
+"Africa";"Ghana";"Hydro";539.38;3;"High";"Urban";2021;"No";395.61
+"North America";"Mexico";"Solar";539.33;5;"Middle";"Urban";2010;"Yes";239.05
+"Asia";"India";"Wind";1277.1;1;"Low";"Rural";2014;"Yes";407.61
+"Asia";"South Korea";"Solar";928.64;7;"Middle";"Rural";2017;"No";254.12
+"Africa";"Egypt";"Solar";370.61;1;"Middle";"Rural";2017;"Yes";472.89
+"Asia";"Indonesia";"Hydro";1365.93;6;"Low";"Urban";2017;"Yes";73.2
+"North America";"USA";"Solar";573.27;7;"High";"Urban";2019;"No";205.23
+"North America";"USA";"Hydro";484.11;8;"Low";"Rural";2013;"No";119.54
+"Europe";"UK";"Solar";682.51;3;"Middle";"Rural";2016;"No";47.93
+"Africa";"Ghana";"Biomass";645.39;3;"High";"Urban";2012;"No";231.35
+"Europe";"Spain";"Biomass";1304.44;6;"High";"Rural";2014;"Yes";214.29
+"South America";"Brazil";"Hydro";490.87;5;"Low";"Rural";2021;"Yes";70.79
+"Africa";"South Africa";"Wind";1489.82;5;"Middle";"Urban";2017;"No";490.12
+"North America";"Canada";"Biomass";619.75;7;"High";"Urban";2012;"No";104.69
+"Europe";"Spain";"Biomass";429.18;7;"Middle";"Urban";2016;"No";120.5
+"Australia";"New Zealand";"Solar";308.49;7;"High";"Urban";2011;"Yes";337.7
+"Australia";"New Zealand";"Geothermal";665.01;2;"Low";"Rural";2020;"Yes";497.64
+"South America";"Brazil";"Solar";1093.44;2;"Middle";"Rural";2016;"No";281.95
+"Europe";"Spain";"Hydro";493.6;5;"High";"Urban";2010;"Yes";321.36
+"Asia";"Japan";"Biomass";983.71;4;"High";"Rural";2011;"No";59.34
+"South America";"Argentina";"Biomass";1457.1;6;"High";"Rural";2020;"No";243.14
+"North America";"USA";"Geothermal";75.48;5;"Middle";"Rural";2010;"Yes";292.48
+"South America";"Brazil";"Hydro";1308.61;7;"High";"Rural";2013;"No";38.66
+"Asia";"South Korea";"Wind";1479.75;2;"Low";"Urban";2011;"No";463.78
+"Australia";"New Zealand";"Hydro";305.57;5;"Middle";"Rural";2012;"No";149.72
+"Africa";"Ghana";"Solar";878.96;1;"High";"Rural";2014;"Yes";357.61
+"South America";"Brazil";"Biomass";602.44;5;"Low";"Rural";2013;"Yes";460.76
+"Africa";"Ghana";"Biomass";431.34;3;"High";"Urban";2019;"Yes";340.09
+"Asia";"South Korea";"Wind";195.3;3;"High";"Rural";2016;"No";132.92
+"North America";"Mexico";"Biomass";157.2;4;"Low";"Rural";2017;"Yes";321.34
+"Asia";"China";"Geothermal";1457.7;1;"Middle";"Urban";2019;"Yes";422.2
+"Asia";"Japan";"Geothermal";473.01;5;"High";"Rural";2015;"No";102.69
+"Australia";"Australia";"Geothermal";940.32;7;"Middle";"Rural";2014;"No";323.03
+"Australia";"Australia";"Biomass";1427.43;8;"Middle";"Rural";2010;"Yes";80.32
+"Asia";"Japan";"Biomass";298.6;6;"Middle";"Rural";2016;"No";108.45
+"South America";"Colombia";"Biomass";600.31;1;"Low";"Urban";2012;"Yes";18.8
+"Europe";"Spain";"Biomass";1099.42;6;"Middle";"Urban";2014;"No";107.82
+"North America";"Canada";"Solar";524.26;1;"Low";"Urban";2011;"No";163.98
+"North America";"Canada";"Wind";206.02;5;"High";"Rural";2016;"No";417.95
+"South America";"Argentina";"Biomass";188.5;5;"Middle";"Urban";2017;"No";335.72
+"Europe";"Spain";"Biomass";748.91;4;"High";"Rural";2019;"Yes";363.23
+"Australia";"New Zealand";"Hydro";759.41;4;"Low";"Urban";2010;"Yes";170.76
+"Asia";"South Korea";"Geothermal";300.42;4;"Low";"Rural";2015;"No";10.46
+"Africa";"Egypt";"Geothermal";1477.01;4;"Middle";"Rural";2015;"Yes";16.2
+"Europe";"France";"Wind";1122.91;2;"Low";"Urban";2020;"Yes";105.34
+"Europe";"Spain";"Geothermal";1322.08;4;"Middle";"Rural";2017;"Yes";396.55
+"South America";"Colombia";"Wind";1347.12;6;"Middle";"Urban";2014;"No";253.14
+"South America";"Argentina";"Wind";1204.33;5;"Low";"Urban";2013;"Yes";426.44
+"Asia";"India";"Solar";691.98;2;"Low";"Urban";2018;"No";431.92
+"Africa";"Egypt";"Wind";1190.35;2;"High";"Rural";2010;"Yes";375.89
+"South America";"Peru";"Hydro";980.81;1;"High";"Rural";2014;"Yes";348.75
+"North America";"Canada";"Wind";442.81;7;"Low";"Rural";2020;"No";424.1
+"South America";"Colombia";"Geothermal";768.12;6;"Middle";"Urban";2014;"Yes";387.81
+"North America";"Canada";"Hydro";143.44;4;"Low";"Urban";2022;"No";269.71
+"North America";"Canada";"Biomass";1439.77;4;"Low";"Rural";2021;"No";398.44
+"South America";"Peru";"Solar";99.95;3;"Middle";"Rural";2018;"No";378.59
+"South America";"Argentina";"Wind";1245.99;7;"Low";"Urban";2014;"Yes";243.14
+"Africa";"Ghana";"Hydro";348.69;7;"High";"Urban";2017;"Yes";405.3
+"North America";"USA";"Wind";482.53;1;"High";"Urban";2016;"No";139.24
+"Africa";"Ghana";"Wind";1204.33;5;"Low";"Rural";2018;"Yes";309.6
+"Australia";"Australia";"Solar";161.1;8;"High";"Rural";2014;"No";185.25
+"Asia";"China";"Hydro";150.6;5;"Middle";"Rural";2010;"No";375.9
+"Africa";"Ghana";"Solar";656.74;6;"Low";"Urban";2010;"Yes";466.53
+"North America";"Mexico";"Solar";858.65;6;"Middle";"Rural";2010;"No";490.87
+"North America";"Canada";"Geothermal";1288.23;3;"Middle";"Rural";2015;"Yes";124.4
+"North America";"Canada";"Hydro";514.0;2;"High";"Rural";2014;"No";191.36
+"Australia";"Australia";"Hydro";1139.52;1;"High";"Urban";2012;"No";78.2
+"Asia";"Japan";"Solar";917.53;3;"Low";"Rural";2010;"Yes";371.04
+"Asia";"Indonesia";"Hydro";1189.18;6;"Low";"Urban";2014;"No";261.48
+"North America";"Canada";"Hydro";1196.7;3;"Middle";"Urban";2014;"No";164.57
+"Asia";"Japan";"Solar";991.34;2;"High";"Rural";2015;"No";483.79
+"Europe";"Italy";"Biomass";1237.14;5;"Middle";"Urban";2012;"No";363.87
+"Australia";"Australia";"Wind";330.02;5;"Middle";"Urban";2018;"Yes";299.95
+"North America";"USA";"Solar";1105.8;7;"Middle";"Urban";2019;"No";386.36
+"North America";"Canada";"Wind";248.02;1;"High";"Rural";2015;"No";45.92
+"Australia";"New Zealand";"Hydro";412.84;1;"High";"Urban";2011;"No";499.53
+"North America";"Mexico";"Solar";1014.85;1;"High";"Rural";2022;"No";182.93
+"Australia";"Australia";"Wind";617.8;2;"Middle";"Rural";2015;"No";453.2
+"Europe";"Germany";"Wind";810.14;6;"Low";"Urban";2011;"Yes";251.37
+"South America";"Colombia";"Hydro";543.08;6;"Middle";"Rural";2017;"Yes";28.77
+"South America";"Peru";"Solar";1358.1;7;"Middle";"Urban";2013;"Yes";181.69
+"North America";"Canada";"Biomass";402.76;6;"Middle";"Urban";2021;"No";393.17
+"Asia";"Indonesia";"Biomass";856.3;5;"Middle";"Urban";2017;"Yes";84.45
+"Australia";"Australia";"Hydro";1291.72;4;"Low";"Rural";2020;"Yes";114.67
+"South America";"Colombia";"Solar";1305.62;4;"High";"Urban";2010;"Yes";212.16
+"Africa";"South Africa";"Wind";991.41;5;"Low";"Rural";2020;"Yes";414.42
+"North America";"Mexico";"Biomass";936.5;8;"High";"Rural";2022;"Yes";131.42
+"North America";"Mexico";"Biomass";605.54;5;"Low";"Rural";2012;"Yes";28.81
+"Australia";"New Zealand";"Solar";336.67;4;"High";"Urban";2016;"No";323.93
+"Africa";"Ghana";"Biomass";649.48;1;"Low";"Urban";2012;"Yes";369.0
+"Europe";"Germany";"Biomass";1389.41;8;"High";"Urban";2020;"No";141.18
+"North America";"Canada";"Solar";366.66;7;"Middle";"Rural";2022;"No";75.84
+"Australia";"Australia";"Wind";1463.07;6;"Middle";"Urban";2018;"Yes";495.81
+"Australia";"Australia";"Hydro";824.46;2;"Middle";"Rural";2017;"No";137.17
+"Australia";"Australia";"Hydro";820.82;2;"High";"Urban";2016;"No";345.47
+"Asia";"India";"Geothermal";634.36;5;"High";"Rural";2022;"Yes";93.87
+"Europe";"Spain";"Wind";1178.89;5;"Low";"Urban";2015;"Yes";279.53
+"Africa";"Kenya";"Wind";436.7;2;"Low";"Rural";2014;"Yes";34.98
+"Africa";"Nigeria";"Hydro";688.03;3;"Middle";"Urban";2016;"No";43.2
+"Asia";"Japan";"Biomass";227.55;2;"High";"Urban";2010;"No";285.05
+"South America";"Chile";"Solar";206.02;5;"High";"Urban";2021;"No";134.83
+"North America";"USA";"Geothermal";1406.89;5;"Low";"Rural";2021;"Yes";108.08
+"Asia";"Indonesia";"Biomass";1086.68;1;"High";"Rural";2023;"No";235.96
+"Asia";"China";"Solar";297.93;3;"Low";"Urban";2014;"No";82.17
+"South America";"Colombia";"Hydro";1450.34;6;"Low";"Urban";2019;"No";417.6
+"Africa";"Egypt";"Solar";964.18;8;"Middle";"Urban";2011;"No";426.43
+"Asia";"Japan";"Wind";438.89;1;"Low";"Rural";2020;"No";72.15
+"Australia";"Australia";"Hydro";723.04;5;"Low";"Urban";2023;"Yes";494.05
+"Africa";"Nigeria";"Hydro";1300.37;4;"Low";"Rural";2023;"No";456.18
+"South America";"Peru";"Wind";50.83;3;"Middle";"Urban";2014;"No";371.3
+"Asia";"Indonesia";"Biomass";834.24;8;"Low";"Rural";2018;"No";309.85
+"Australia";"Australia";"Hydro";1044.26;4;"Low";"Urban";2013;"Yes";204.81
+"Africa";"Ghana";"Solar";1055.41;3;"Low";"Rural";2014;"Yes";309.72
+"Australia";"Australia";"Solar";327.32;2;"High";"Urban";2024;"No";107.67
+"Australia";"Australia";"Wind";1204.9;5;"Low";"Urban";2011;"No";440.7
+"Europe";"France";"Hydro";688.75;2;"High";"Rural";2010;"Yes";166.82
+"Asia";"India";"Geothermal";757.05;8;"Low";"Rural";2017;"No";171.49
+"Africa";"Nigeria";"Biomass";1418.5;3;"Middle";"Urban";2012;"No";33.3
+"Africa";"Kenya";"Biomass";171.0;6;"Low";"Rural";2018;"Yes";451.73
+"Australia";"Australia";"Wind";949.12;7;"Low";"Rural";2012;"No";39.66
+"Australia";"Australia";"Biomass";1303.48;6;"Middle";"Urban";2021;"No";336.09
+"South America";"Colombia";"Solar";1119.57;7;"Middle";"Urban";2015;"Yes";352.97
+"South America";"Chile";"Biomass";1106.35;8;"High";"Urban";2021;"No";480.46
+"South America";"Peru";"Biomass";1220.52;1;"Low";"Rural";2017;"No";483.75
+"Asia";"Japan";"Biomass";1249.39;3;"High";"Rural";2022;"Yes";109.33
+"Africa";"South Africa";"Geothermal";401.68;6;"Low";"Urban";2014;"Yes";18.18
+"South America";"Chile";"Wind";169.12;4;"Low";"Rural";2013;"No";477.7
+"Europe";"Italy";"Wind";452.9;1;"Low";"Rural";2020;"Yes";45.42
+"Asia";"Japan";"Biomass";59.86;4;"High";"Rural";2016;"No";176.06
+"Europe";"UK";"Biomass";636.26;7;"High";"Urban";2024;"Yes";186.07
+"Europe";"UK";"Geothermal";934.34;7;"Low";"Rural";2020;"Yes";88.55
+"Africa";"Kenya";"Wind";386.31;7;"Low";"Rural";2010;"No";259.3
+"Asia";"Japan";"Solar";722.37;6;"Low";"Rural";2022;"No";33.46
+"Asia";"China";"Geothermal";650.58;7;"High";"Urban";2015;"No";44.83
+"Asia";"South Korea";"Hydro";927.42;7;"Middle";"Urban";2015;"Yes";131.94
+"Europe";"France";"Geothermal";232.61;4;"High";"Urban";2017;"No";297.03
+"Asia";"South Korea";"Geothermal";506.99;7;"Middle";"Urban";2012;"Yes";420.11
+"North America";"Canada";"Solar";63.29;5;"High";"Urban";2015;"No";367.6
+"Australia";"Australia";"Wind";1260.31;8;"High";"Urban";2020;"Yes";115.19
+"Australia";"New Zealand";"Hydro";1130.75;3;"Low";"Rural";2019;"No";277.13
+"Africa";"Egypt";"Geothermal";121.61;7;"Middle";"Rural";2014;"No";55.92
+"Europe";"France";"Biomass";987.68;2;"Low";"Rural";2012;"No";36.15
+"North America";"Canada";"Geothermal";1204.29;4;"Middle";"Urban";2013;"Yes";221.0
+"North America";"USA";"Wind";104.48;2;"Middle";"Rural";2015;"Yes";411.86
+"South America";"Chile";"Wind";671.85;3;"Low";"Urban";2018;"Yes";288.2
+"Africa";"South Africa";"Solar";1348.59;1;"Middle";"Rural";2018;"No";198.37
+"North America";"USA";"Geothermal";1346.71;7;"High";"Rural";2020;"Yes";444.98
+"Australia";"Australia";"Hydro";493.52;8;"Low";"Urban";2012;"Yes";94.78
+"Africa";"Nigeria";"Hydro";814.9;3;"High";"Urban";2016;"No";144.24
+"Europe";"France";"Wind";1051.38;6;"Low";"Rural";2010;"Yes";103.64
+"South America";"Peru";"Hydro";1356.79;1;"Middle";"Rural";2019;"No";140.64
+"Europe";"France";"Geothermal";896.84;8;"Low";"Urban";2021;"No";153.08
+"South America";"Argentina";"Biomass";788.91;7;"Middle";"Rural";2013;"No";227.15
+"South America";"Brazil";"Biomass";1016.87;5;"High";"Rural";2013;"Yes";458.14
+"Asia";"India";"Wind";636.58;2;"High";"Urban";2019;"No";342.99
+"North America";"Canada";"Biomass";1052.19;2;"High";"Rural";2010;"No";350.96
+"Australia";"New Zealand";"Hydro";630.46;5;"Middle";"Urban";2022;"No";156.42
+"Africa";"South Africa";"Geothermal";743.76;4;"Low";"Rural";2016;"No";283.81
+"South America";"Brazil";"Wind";923.41;5;"High";"Urban";2014;"Yes";88.55
+"Europe";"Italy";"Hydro";962.13;2;"Low";"Urban";2015;"No";24.26
+"Europe";"UK";"Wind";1226.99;2;"Low";"Urban";2020;"No";224.67
+"Europe";"Spain";"Wind";863.6;4;"Middle";"Urban";2018;"No";186.74
+"Africa";"South Africa";"Geothermal";102.88;6;"High";"Urban";2021;"Yes";320.09
+"North America";"Mexico";"Hydro";139.37;3;"High";"Urban";2019;"No";184.84
+"Asia";"South Korea";"Geothermal";247.39;2;"High";"Urban";2016;"Yes";218.29
+"North America";"Canada";"Geothermal";541.42;2;"High";"Urban";2021;"No";91.75
+"Australia";"New Zealand";"Wind";435.98;7;"Low";"Rural";2020;"Yes";470.71
+"Asia";"South Korea";"Biomass";1069.45;6;"Middle";"Rural";2012;"No";42.4
+"North America";"Canada";"Hydro";189.94;4;"Low";"Urban";2023;"No";242.27
+"Africa";"Nigeria";"Wind";753.77;1;"Middle";"Rural";2018;"No";384.41
+"Europe";"UK";"Hydro";970.06;4;"High";"Rural";2010;"No";135.49
+"North America";"USA";"Solar";1074.95;3;"Low";"Urban";2014;"Yes";71.74
+"Australia";"Australia";"Biomass";441.12;5;"High";"Urban";2017;"Yes";289.05
+"Asia";"Japan";"Wind";1069.03;4;"Low";"Rural";2015;"No";448.16
+"Africa";"Egypt";"Hydro";1334.84;2;"Low";"Rural";2017;"Yes";288.19
+"Africa";"Ghana";"Wind";666.08;3;"Low";"Rural";2012;"Yes";484.71
+"Asia";"India";"Wind";303.95;6;"Middle";"Rural";2024;"No";173.17
+"Africa";"Ghana";"Hydro";482.54;4;"High";"Rural";2023;"No";178.6
+"Australia";"Australia";"Hydro";352.75;2;"High";"Urban";2021;"Yes";48.68
+"Europe";"Germany";"Hydro";564.89;7;"Middle";"Urban";2016;"Yes";466.41
+"South America";"Brazil";"Biomass";311.03;6;"Middle";"Rural";2017;"No";376.79
+"Australia";"New Zealand";"Geothermal";1462.29;6;"Middle";"Rural";2010;"Yes";62.87
+"Europe";"France";"Geothermal";1239.31;1;"Low";"Urban";2021;"No";438.38
+"Africa";"Ghana";"Wind";66.76;8;"Middle";"Urban";2016;"Yes";236.27
+"Europe";"Spain";"Wind";791.42;3;"Middle";"Urban";2017;"No";401.91
+"North America";"USA";"Solar";1213.31;3;"High";"Rural";2013;"Yes";261.36
+"South America";"Chile";"Wind";223.27;1;"High";"Rural";2012;"Yes";133.06
+"North America";"Canada";"Solar";732.01;2;"Middle";"Urban";2020;"No";277.2
+"Australia";"New Zealand";"Geothermal";480.34;3;"Middle";"Rural";2016;"Yes";423.31
+"Europe";"Spain";"Wind";1363.93;5;"Middle";"Rural";2019;"No";316.91
+"Europe";"France";"Hydro";682.0;1;"Low";"Urban";2010;"Yes";435.15
+"North America";"Canada";"Geothermal";637.15;1;"Low";"Rural";2018;"No";163.19
+"Australia";"New Zealand";"Biomass";1292.66;1;"Low";"Urban";2010;"Yes";12.59
+"Europe";"Spain";"Hydro";976.96;4;"Middle";"Rural";2016;"Yes";278.54
+"South America";"Colombia";"Solar";1111.49;1;"Middle";"Rural";2017;"Yes";428.61
+"Europe";"Spain";"Hydro";624.94;6;"High";"Urban";2016;"Yes";34.12
+"Europe";"UK";"Wind";1182.96;8;"Low";"Rural";2019;"No";285.45
+"Africa";"Kenya";"Geothermal";273.13;5;"Middle";"Rural";2015;"No";144.18
+"Australia";"New Zealand";"Hydro";143.22;4;"High";"Rural";2019;"Yes";427.53
+"North America";"USA";"Geothermal";971.3;6;"Middle";"Urban";2014;"No";22.58
+"North America";"Canada";"Wind";1269.33;4;"Low";"Urban";2018;"No";45.36
+"Asia";"India";"Biomass";1184.46;8;"Low";"Rural";2017;"No";404.76
+"Africa";"Nigeria";"Biomass";67.68;7;"Middle";"Rural";2024;"No";142.29
+"Europe";"Spain";"Wind";1401.59;2;"Low";"Urban";2019;"No";301.45
+"Europe";"Italy";"Solar";339.85;3;"Low";"Rural";2020;"Yes";415.95
+"South America";"Chile";"Biomass";1068.06;1;"High";"Urban";2015;"No";56.41
+"Africa";"South Africa";"Solar";1497.34;5;"Low";"Rural";2021;"No";235.99
+"Asia";"China";"Wind";662.8;1;"Low";"Rural";2014;"No";346.03
+"South America";"Brazil";"Wind";1032.68;8;"High";"Urban";2019;"No";246.73
+"South America";"Colombia";"Hydro";514.99;3;"Middle";"Urban";2017;"Yes";231.11
+"Africa";"Ghana";"Hydro";1464.6;7;"Middle";"Urban";2022;"No";414.96
+"Australia";"Australia";"Biomass";452.94;6;"High";"Urban";2017;"No";388.41
+"Australia";"Australia";"Solar";997.6;7;"High";"Rural";2012;"No";399.65
+"Asia";"Japan";"Solar";973.66;5;"Low";"Urban";2018;"Yes";176.22
+"Africa";"Egypt";"Hydro";777.98;8;"Middle";"Urban";2013;"Yes";29.8
+"South America";"Peru";"Hydro";650.14;5;"Middle";"Urban";2013;"Yes";67.96
+"Europe";"France";"Wind";770.93;4;"Low";"Rural";2011;"No";467.96
+"Australia";"Australia";"Geothermal";857.44;6;"Middle";"Urban";2012;"Yes";317.47
+"South America";"Argentina";"Biomass";437.07;1;"High";"Rural";2010;"Yes";160.28
+"Asia";"South Korea";"Solar";545.68;8;"Middle";"Rural";2021;"No";300.24
+"Asia";"China";"Geothermal";1119.18;2;"Middle";"Rural";2019;"Yes";427.27
+"Australia";"Australia";"Geothermal";1041.18;5;"Low";"Urban";2019;"Yes";226.54
+"Africa";"South Africa";"Biomass";129.37;2;"Middle";"Urban";2012;"Yes";230.13
+"Europe";"UK";"Hydro";1233.7;4;"Low";"Urban";2010;"No";90.77
+"North America";"Canada";"Solar";990.28;6;"High";"Urban";2016;"No";448.87
+"Asia";"Japan";"Geothermal";417.55;5;"Middle";"Rural";2012;"No";239.94
+"Africa";"Egypt";"Solar";173.88;6;"High";"Rural";2021;"Yes";163.85
+"Europe";"UK";"Geothermal";1067.66;2;"High";"Urban";2014;"No";235.07
+"South America";"Colombia";"Hydro";1154.88;6;"Low";"Rural";2011;"Yes";261.48
+"Europe";"France";"Solar";975.34;7;"High";"Urban";2010;"No";362.92
+"South America";"Brazil";"Wind";626.09;7;"Middle";"Rural";2013;"Yes";90.25
+"South America";"Chile";"Hydro";53.61;2;"Middle";"Urban";2014;"Yes";39.22
+"North America";"USA";"Wind";929.49;7;"High";"Rural";2018;"Yes";87.19
+"Australia";"New Zealand";"Biomass";416.11;4;"Middle";"Rural";2020;"No";159.74
+"North America";"Canada";"Wind";894.85;2;"Middle";"Rural";2020;"Yes";498.9
+"Africa";"South Africa";"Wind";1209.64;2;"Middle";"Rural";2010;"No";28.4
+"Asia";"Indonesia";"Wind";615.12;3;"Low";"Rural";2023;"No";358.32
+"Europe";"Spain";"Geothermal";542.9;8;"High";"Urban";2014;"Yes";188.29
+"North America";"Mexico";"Wind";478.87;4;"Middle";"Urban";2011;"Yes";141.9
+"North America";"USA";"Wind";589.55;8;"Middle";"Urban";2015;"No";215.86
+"North America";"Canada";"Wind";105.55;2;"Low";"Rural";2017;"No";440.28
+"South America";"Chile";"Geothermal";289.49;5;"High";"Rural";2017;"No";247.73
+"South America";"Brazil";"Solar";117.21;7;"Low";"Urban";2014;"Yes";335.33
+"Australia";"New Zealand";"Solar";402.77;1;"Low";"Urban";2011;"No";12.86
+"Africa";"Nigeria";"Hydro";742.93;7;"High";"Urban";2017;"Yes";259.85
+"North America";"Canada";"Solar";1488.85;2;"Middle";"Urban";2015;"No";367.18
+"Africa";"Nigeria";"Hydro";93.69;3;"Middle";"Rural";2011;"No";88.63
+"South America";"Colombia";"Solar";826.07;4;"Middle";"Urban";2014;"Yes";343.09
+"South America";"Colombia";"Wind";1389.49;7;"High";"Urban";2014;"Yes";168.62
+"Africa";"Ghana";"Hydro";516.85;6;"Middle";"Urban";2013;"Yes";498.33
+"Europe";"Italy";"Hydro";972.9;8;"Low";"Rural";2015;"Yes";105.19
+"Australia";"New Zealand";"Solar";1328.57;8;"High";"Rural";2019;"No";181.35
+"Africa";"Nigeria";"Hydro";922.15;8;"Low";"Rural";2018;"Yes";229.09
+"Asia";"China";"Hydro";1108.74;8;"High";"Urban";2012;"Yes";323.78
+"Asia";"Indonesia";"Wind";948.93;7;"High";"Rural";2024;"No";354.47
+"Europe";"Germany";"Biomass";115.59;7;"Low";"Urban";2015;"No";462.45
+"South America";"Argentina";"Solar";139.39;5;"High";"Urban";2023;"No";199.14
+"North America";"USA";"Solar";1446.24;7;"High";"Rural";2011;"Yes";183.01
+"Australia";"Australia";"Biomass";408.96;7;"Middle";"Urban";2016;"No";173.41
+"Australia";"Australia";"Geothermal";618.36;5;"High";"Urban";2012;"No";338.2
+"South America";"Peru";"Wind";503.53;1;"Middle";"Rural";2021;"No";248.47
+"Africa";"Nigeria";"Wind";260.84;7;"Middle";"Urban";2015;"Yes";60.73
+"South America";"Brazil";"Wind";816.88;8;"High";"Rural";2024;"No";46.98
+"Europe";"France";"Biomass";1440.23;5;"High";"Urban";2020;"No";380.51
+"Europe";"Spain";"Solar";589.43;3;"Middle";"Rural";2016;"No";100.27
+"Europe";"Spain";"Biomass";62.63;4;"High";"Urban";2014;"Yes";179.67
+"Africa";"Nigeria";"Wind";1443.35;1;"High";"Urban";2019;"No";399.21
+"South America";"Colombia";"Hydro";70.26;3;"High";"Rural";2010;"Yes";275.99
+"Australia";"New Zealand";"Wind";551.06;5;"Middle";"Rural";2013;"Yes";387.12
+"North America";"Canada";"Hydro";470.67;7;"Low";"Rural";2018;"No";133.63
+"Europe";"UK";"Wind";518.26;3;"Low";"Urban";2018;"No";108.91
+"Asia";"Japan";"Biomass";979.51;8;"Middle";"Rural";2018;"No";378.39
+"Asia";"China";"Hydro";1202.47;8;"Middle";"Urban";2017;"No";19.79
+"Africa";"Ghana";"Biomass";1343.68;5;"High";"Rural";2017;"Yes";367.06
+"Australia";"New Zealand";"Solar";696.89;7;"Low";"Urban";2015;"No";480.18
+"Europe";"UK";"Hydro";462.27;1;"Middle";"Rural";2017;"Yes";267.83
+"Europe";"Italy";"Biomass";968.32;8;"High";"Rural";2016;"No";165.37
+"Australia";"New Zealand";"Geothermal";973.53;6;"Middle";"Urban";2010;"Yes";416.97
+"Africa";"Kenya";"Hydro";215.22;7;"Middle";"Urban";2012;"Yes";316.89
+"North America";"Mexico";"Biomass";190.46;2;"Low";"Urban";2012;"No";391.05
+"Asia";"Indonesia";"Solar";735.67;3;"High";"Urban";2017;"Yes";244.15
+"Europe";"France";"Wind";1262.01;8;"Middle";"Urban";2013;"No";467.2
+"Asia";"South Korea";"Wind";1483.65;7;"Middle";"Urban";2016;"Yes";447.13
+"Australia";"Australia";"Geothermal";455.48;3;"Low";"Urban";2014;"No";278.97
+"Europe";"France";"Hydro";1027.3;3;"Middle";"Urban";2012;"Yes";136.71
+"Africa";"South Africa";"Geothermal";313.78;8;"High";"Urban";2011;"No";171.08
+"Europe";"Germany";"Hydro";188.49;2;"Middle";"Rural";2022;"No";484.19
+"Australia";"New Zealand";"Geothermal";841.26;4;"Middle";"Rural";2011;"Yes";388.6
+"Africa";"Egypt";"Wind";978.88;8;"Middle";"Urban";2010;"Yes";367.33
+"Australia";"Australia";"Biomass";1263.52;4;"Middle";"Rural";2015;"Yes";90.95
+"Africa";"Egypt";"Solar";1016.41;7;"Middle";"Rural";2020;"No";226.29
+"North America";"Mexico";"Geothermal";194.84;5;"Low";"Urban";2012;"Yes";29.87
+"Australia";"Australia";"Geothermal";360.11;2;"High";"Urban";2020;"No";29.0
+"North America";"Mexico";"Hydro";1337.94;3;"High";"Urban";2013;"Yes";119.19
+"North America";"Mexico";"Hydro";1298.34;5;"Middle";"Urban";2011;"Yes";224.2
+"Europe";"UK";"Biomass";525.54;8;"High";"Rural";2022;"Yes";61.35
+"Europe";"Spain";"Biomass";402.64;4;"Middle";"Rural";2014;"Yes";192.03
+"South America";"Brazil";"Solar";1069.88;7;"Middle";"Rural";2022;"No";249.05
+"Africa";"Kenya";"Geothermal";1326.24;7;"High";"Rural";2012;"Yes";31.21
+"Africa";"Ghana";"Wind";396.8;2;"Low";"Urban";2010;"No";314.17
+"Europe";"Germany";"Hydro";1150.47;5;"Middle";"Urban";2020;"Yes";186.67
+"Africa";"Egypt";"Wind";1430.71;8;"Middle";"Rural";2013;"No";285.73
+"Australia";"New Zealand";"Solar";899.32;2;"Middle";"Urban";2016;"Yes";265.92
+"Asia";"India";"Hydro";917.22;7;"Low";"Rural";2018;"No";488.18
+"North America";"Canada";"Geothermal";423.94;5;"High";"Rural";2015;"Yes";278.61
+"South America";"Chile";"Biomass";1349.0;4;"Middle";"Urban";2018;"No";340.17
+"South America";"Argentina";"Wind";1403.61;3;"High";"Urban";2011;"Yes";444.74
+"North America";"Mexico";"Wind";1277.08;7;"Middle";"Rural";2015;"No";118.23
+"Africa";"Kenya";"Wind";186.02;5;"Low";"Rural";2010;"No";48.37
+"Africa";"Nigeria";"Hydro";84.85;3;"High";"Rural";2019;"Yes";110.31
+"North America";"Canada";"Hydro";650.63;2;"Low";"Urban";2024;"Yes";424.09
+"Africa";"Kenya";"Wind";1335.43;7;"High";"Rural";2010;"No";194.18
+"Africa";"South Africa";"Geothermal";887.04;2;"Low";"Rural";2016;"Yes";268.71
+"South America";"Colombia";"Biomass";1445.55;2;"Low";"Urban";2011;"Yes";439.45
+"Africa";"South Africa";"Hydro";1325.18;6;"High";"Rural";2017;"No";180.7
+"Africa";"Ghana";"Solar";805.86;7;"High";"Urban";2011;"Yes";51.4
+"Asia";"South Korea";"Biomass";602.96;6;"Middle";"Rural";2019;"No";22.03
+"Asia";"China";"Hydro";1278.4;6;"Middle";"Rural";2011;"Yes";422.69
+"North America";"Canada";"Geothermal";1416.64;3;"Middle";"Rural";2016;"No";110.43
+"Europe";"Italy";"Biomass";81.89;2;"Middle";"Urban";2020;"Yes";94.04
+"Australia";"Australia";"Wind";157.05;3;"Low";"Rural";2022;"No";276.16
+"Australia";"New Zealand";"Geothermal";1074.61;4;"Middle";"Urban";2022;"Yes";452.43
+"Africa";"Egypt";"Geothermal";1015.24;1;"Middle";"Rural";2010;"Yes";303.53
+"North America";"USA";"Wind";165.64;7;"Middle";"Rural";2018;"Yes";148.68
+"Africa";"Nigeria";"Wind";71.81;3;"High";"Rural";2014;"Yes";308.49
+"Asia";"Indonesia";"Hydro";177.58;2;"Low";"Rural";2021;"No";366.25
+"South America";"Colombia";"Solar";737.57;1;"Middle";"Urban";2014;"Yes";79.69
+"Europe";"France";"Hydro";98.8;4;"Middle";"Urban";2019;"Yes";173.92
+"Australia";"New Zealand";"Biomass";152.93;4;"Low";"Urban";2016;"No";219.23
+"Africa";"Egypt";"Wind";488.04;6;"Low";"Urban";2014;"Yes";125.36
+"North America";"Mexico";"Hydro";607.36;8;"High";"Urban";2020;"Yes";70.41
+"Australia";"New Zealand";"Solar";834.37;6;"Low";"Urban";2015;"Yes";211.56
+"Africa";"Kenya";"Solar";781.9;3;"High";"Rural";2023;"Yes";419.91
+"Europe";"UK";"Biomass";1137.5;6;"Low";"Rural";2011;"Yes";203.5
+"Europe";"France";"Hydro";292.57;5;"High";"Urban";2018;"No";180.54
+"North America";"USA";"Hydro";201.79;4;"Middle";"Rural";2011;"No";437.74
+"Africa";"South Africa";"Geothermal";113.51;1;"Middle";"Rural";2020;"Yes";221.31
+"South America";"Chile";"Geothermal";117.02;8;"Middle";"Rural";2010;"No";499.12
+"North America";"Canada";"Geothermal";1204.8;3;"Middle";"Urban";2013;"No";339.92
+"North America";"Mexico";"Hydro";862.04;1;"Low";"Urban";2012;"No";370.63
+"Africa";"South Africa";"Hydro";663.16;2;"High";"Rural";2023;"Yes";301.93
+"South America";"Argentina";"Wind";844.42;1;"Middle";"Urban";2017;"No";440.91
+"Australia";"Australia";"Biomass";172.96;3;"High";"Rural";2020;"No";275.14
+"Europe";"Italy";"Solar";533.4;1;"Low";"Rural";2015;"No";344.13
+"Africa";"Nigeria";"Geothermal";131.5;4;"High";"Urban";2010;"No";493.71
+"South America";"Argentina";"Hydro";890.67;7;"Middle";"Rural";2013;"No";330.75
+"Africa";"Egypt";"Wind";690.66;2;"Middle";"Rural";2014;"Yes";42.35
+"South America";"Peru";"Wind";175.4;2;"Middle";"Rural";2017;"No";44.64
+"Europe";"Italy";"Geothermal";1027.49;1;"Low";"Rural";2014;"No";445.14
+"Australia";"New Zealand";"Geothermal";605.53;6;"Middle";"Urban";2020;"No";78.57
+"Europe";"Italy";"Geothermal";172.23;5;"High";"Urban";2015;"Yes";82.81
+"Africa";"South Africa";"Geothermal";224.11;3;"High";"Rural";2011;"No";417.05
+"North America";"USA";"Hydro";1244.82;5;"High";"Rural";2013;"Yes";54.72
+"South America";"Colombia";"Geothermal";1474.07;7;"Middle";"Urban";2011;"Yes";41.2
+"South America";"Argentina";"Wind";465.6;5;"Middle";"Rural";2011;"No";217.2
+"Africa";"Egypt";"Wind";593.32;1;"High";"Urban";2015;"Yes";123.65
+"Africa";"South Africa";"Solar";1005.19;7;"High";"Rural";2017;"No";214.47
+"South America";"Peru";"Wind";1208.87;6;"Middle";"Rural";2011;"No";200.8
+"Europe";"Italy";"Wind";697.22;1;"Middle";"Rural";2017;"Yes";358.26
+"South America";"Peru";"Geothermal";269.66;4;"Middle";"Rural";2017;"Yes";76.74
+"Asia";"Japan";"Geothermal";193.05;5;"High";"Rural";2017;"Yes";276.59
+"South America";"Colombia";"Geothermal";1092.98;3;"Middle";"Rural";2021;"No";52.92
+"Africa";"Kenya";"Solar";524.35;7;"Middle";"Urban";2020;"No";36.4
+"Australia";"New Zealand";"Wind";1285.58;3;"Middle";"Rural";2010;"No";138.95
+"Europe";"Italy";"Geothermal";652.56;2;"Low";"Urban";2012;"Yes";24.44
+"North America";"Canada";"Biomass";1103.59;4;"Low";"Urban";2017;"No";179.78
+"North America";"Canada";"Hydro";986.98;6;"Middle";"Rural";2011;"Yes";308.38
+"North America";"Canada";"Biomass";421.09;2;"High";"Rural";2012;"No";19.08
+"Australia";"Australia";"Biomass";866.97;2;"Middle";"Rural";2015;"Yes";341.45
+"Australia";"New Zealand";"Wind";315.99;2;"Middle";"Urban";2010;"Yes";406.22
+"Asia";"Japan";"Hydro";629.57;2;"High";"Urban";2011;"Yes";446.65
+"Australia";"New Zealand";"Hydro";1348.27;3;"Middle";"Rural";2016;"Yes";215.63
+"Asia";"China";"Hydro";104.57;7;"High";"Rural";2011;"No";490.62
+"South America";"Peru";"Geothermal";1055.72;7;"Low";"Urban";2016;"Yes";333.97
+"Asia";"Japan";"Solar";1048.01;7;"Low";"Urban";2010;"Yes";283.54
+"Asia";"South Korea";"Biomass";440.4;3;"Low";"Urban";2014;"No";254.25
+"Africa";"Kenya";"Biomass";403.06;1;"Middle";"Urban";2019;"Yes";149.33
+"Africa";"South Africa";"Geothermal";735.89;8;"High";"Urban";2014;"No";411.02
+"North America";"USA";"Hydro";1163.88;8;"Middle";"Urban";2013;"No";193.41
+"Europe";"Spain";"Geothermal";359.67;8;"Middle";"Rural";2010;"Yes";251.84
+"Africa";"Ghana";"Solar";790.8;6;"Middle";"Rural";2013;"Yes";346.91
+"Asia";"Japan";"Wind";1038.9;3;"Low";"Urban";2020;"Yes";158.21
+"South America";"Peru";"Geothermal";1272.03;1;"Middle";"Urban";2011;"No";119.72
+"North America";"Canada";"Biomass";1298.09;1;"High";"Urban";2020;"Yes";373.04
+"South America";"Peru";"Solar";581.6;3;"Low";"Urban";2015;"Yes";294.1
+"North America";"Mexico";"Wind";751.18;6;"High";"Rural";2015;"No";218.78
+"Africa";"South Africa";"Biomass";1278.07;4;"High";"Urban";2015;"No";117.22
+"Africa";"South Africa";"Wind";1418.55;5;"Middle";"Rural";2024;"Yes";437.89
+"Asia";"Indonesia";"Hydro";1330.02;1;"Low";"Rural";2016;"Yes";88.81
+"South America";"Colombia";"Biomass";699.03;5;"High";"Urban";2022;"Yes";285.64
+"Asia";"Indonesia";"Solar";1223.21;2;"Middle";"Urban";2020;"Yes";60.31
+"Asia";"Japan";"Geothermal";323.91;8;"Low";"Rural";2016;"No";357.88
+"South America";"Chile";"Biomass";462.22;7;"Low";"Urban";2020;"Yes";155.68
+"North America";"Mexico";"Solar";1245.13;8;"Middle";"Urban";2018;"Yes";211.33
+"North America";"USA";"Hydro";1420.57;8;"Middle";"Urban";2019;"No";217.81
+"South America";"Brazil";"Geothermal";1073.47;8;"High";"Urban";2020;"No";197.41
+"Australia";"New Zealand";"Biomass";828.24;3;"High";"Urban";2010;"Yes";146.18
+"South America";"Argentina";"Wind";1011.87;2;"Middle";"Rural";2020;"No";487.57
+"Europe";"UK";"Solar";1117.27;6;"Low";"Urban";2017;"Yes";222.88
+"North America";"Canada";"Geothermal";816.03;6;"Middle";"Urban";2012;"No";10.42
+"Australia";"New Zealand";"Wind";84.08;8;"High";"Urban";2015;"No";315.42
+"Asia";"China";"Wind";1388.72;4;"Low";"Rural";2023;"No";326.8
+"Africa";"Egypt";"Geothermal";1231.86;4;"High";"Rural";2019;"Yes";76.73
+"Australia";"Australia";"Wind";760.97;5;"Low";"Urban";2012;"Yes";152.83
+"North America";"Canada";"Solar";604.69;7;"Middle";"Urban";2012;"No";193.39
+"South America";"Argentina";"Wind";763.0;8;"Low";"Rural";2019;"No";364.29
+"Europe";"Spain";"Hydro";1346.02;3;"Low";"Rural";2017;"No";130.62
+"Africa";"South Africa";"Wind";453.84;3;"High";"Urban";2023;"Yes";308.23
+"South America";"Chile";"Biomass";1270.95;2;"Middle";"Urban";2011;"Yes";402.3
+"Africa";"Ghana";"Geothermal";117.05;3;"High";"Urban";2011;"No";39.22
+"North America";"Canada";"Solar";547.68;5;"Low";"Rural";2021;"No";50.21
+"North America";"Canada";"Biomass";874.22;6;"Middle";"Rural";2012;"Yes";476.56
+"Asia";"Japan";"Hydro";1195.66;2;"High";"Rural";2013;"No";72.41
+"Asia";"China";"Solar";678.92;1;"Middle";"Rural";2011;"No";486.72
+"Europe";"Spain";"Solar";513.7;8;"Low";"Rural";2018;"Yes";265.01
+"Europe";"UK";"Biomass";890.84;8;"Low";"Urban";2021;"No";390.01
+"Australia";"Australia";"Solar";1006.04;7;"Middle";"Urban";2011;"Yes";53.54
+"Europe";"Italy";"Solar";1366.09;1;"Low";"Rural";2017;"Yes";216.0
+"Asia";"Indonesia";"Biomass";235.76;7;"High";"Rural";2016;"No";470.15
+"South America";"Colombia";"Wind";179.94;4;"Low";"Rural";2014;"Yes";343.95
+"Australia";"New Zealand";"Hydro";182.98;6;"High";"Urban";2020;"No";183.38
+"North America";"USA";"Biomass";590.49;3;"Low";"Urban";2011;"Yes";233.34
+"Africa";"Ghana";"Biomass";74.98;7;"High";"Rural";2022;"Yes";107.47
+"Asia";"Japan";"Solar";1470.86;3;"Middle";"Urban";2013;"No";381.53
+"Asia";"China";"Wind";1418.63;6;"High";"Rural";2022;"No";455.67
+"Asia";"South Korea";"Hydro";593.89;1;"Middle";"Urban";2021;"No";187.31
+"Africa";"Egypt";"Biomass";930.84;8;"Middle";"Rural";2010;"Yes";453.29
+"South America";"Chile";"Geothermal";588.4;6;"High";"Rural";2015;"No";406.04
+"Asia";"Indonesia";"Wind";1180.33;4;"High";"Rural";2022;"No";310.88
+"Africa";"South Africa";"Hydro";1103.77;4;"Middle";"Rural";2011;"No";187.19
+"Australia";"New Zealand";"Geothermal";680.31;1;"High";"Urban";2020;"No";34.38
+"Asia";"South Korea";"Solar";295.83;3;"Middle";"Rural";2019;"No";110.96
+"Europe";"Spain";"Hydro";1062.6;2;"Low";"Urban";2021;"Yes";182.46
+"South America";"Brazil";"Hydro";747.89;7;"Middle";"Rural";2020;"No";301.39
+"Asia";"India";"Biomass";501.65;6;"Low";"Rural";2015;"No";380.43
+"Australia";"Australia";"Wind";1071.4;5;"Middle";"Rural";2012;"Yes";143.65
+"North America";"Mexico";"Hydro";1070.04;8;"Middle";"Rural";2015;"No";123.95
+"Europe";"Italy";"Biomass";587.24;1;"Middle";"Urban";2018;"Yes";455.0
+"Australia";"Australia";"Solar";485.47;6;"Middle";"Urban";2018;"Yes";448.91
+"Europe";"Italy";"Wind";1467.24;3;"Middle";"Rural";2017;"No";255.67
+"North America";"USA";"Wind";341.39;1;"Middle";"Rural";2022;"Yes";233.36
+"Australia";"New Zealand";"Geothermal";700.38;2;"Low";"Rural";2013;"No";455.18
+"Africa";"Egypt";"Solar";1424.33;3;"Middle";"Rural";2010;"Yes";188.91
+"Africa";"Egypt";"Solar";1205.43;8;"Middle";"Rural";2016;"Yes";199.63
+"North America";"Mexico";"Solar";1451.98;7;"High";"Urban";2015;"Yes";23.49
+"Africa";"Nigeria";"Wind";1348.63;7;"Middle";"Urban";2013;"Yes";414.49
+"Europe";"France";"Geothermal";217.54;7;"High";"Urban";2023;"Yes";193.74
+"Europe";"Italy";"Hydro";1257.87;3;"Middle";"Rural";2010;"No";134.0
+"Europe";"France";"Geothermal";1291.8;4;"High";"Urban";2014;"No";232.0
+"North America";"Canada";"Hydro";1362.75;1;"Middle";"Rural";2010;"No";20.6
+"South America";"Brazil";"Biomass";1059.04;1;"Low";"Rural";2015;"No";149.2
+"Africa";"Ghana";"Geothermal";406.77;4;"High";"Urban";2017;"Yes";497.23
+"Asia";"India";"Wind";1440.55;3;"Low";"Rural";2020;"Yes";74.45
+"Asia";"South Korea";"Biomass";957.54;4;"High";"Urban";2011;"Yes";72.2
+"South America";"Colombia";"Biomass";859.13;1;"Low";"Urban";2010;"No";475.8
+"Australia";"New Zealand";"Biomass";503.95;2;"High";"Urban";2013;"Yes";425.48
+"Australia";"New Zealand";"Hydro";123.89;7;"Low";"Urban";2020;"No";123.3
+"Africa";"Kenya";"Geothermal";157.72;2;"Middle";"Rural";2018;"No";94.06
+"Europe";"France";"Solar";620.77;5;"Low";"Rural";2018;"Yes";22.1
+"North America";"Mexico";"Hydro";1450.08;2;"High";"Rural";2017;"No";426.76
+"North America";"Mexico";"Solar";318.83;3;"High";"Urban";2011;"No";298.1
+"Europe";"Italy";"Geothermal";1101.28;5;"Middle";"Rural";2013;"No";210.79
+"Australia";"Australia";"Hydro";890.76;6;"Middle";"Urban";2010;"Yes";401.62
+"South America";"Colombia";"Solar";387.85;1;"Low";"Rural";2010;"Yes";438.15
+"Asia";"South Korea";"Hydro";564.13;6;"Low";"Rural";2022;"No";426.43
+"North America";"Mexico";"Biomass";1089.87;4;"Low";"Rural";2017;"No";64.57
+"Australia";"New Zealand";"Geothermal";1120.88;1;"Middle";"Rural";2010;"Yes";271.37
+"North America";"Canada";"Wind";417.09;6;"Middle";"Urban";2020;"Yes";113.89
+"Africa";"Nigeria";"Biomass";1353.78;3;"Middle";"Rural";2012;"Yes";425.42
+"South America";"Peru";"Solar";856.01;7;"Low";"Urban";2019;"No";318.42
+"South America";"Peru";"Geothermal";74.28;3;"Middle";"Urban";2017;"Yes";110.91
+"Europe";"UK";"Solar";337.6;4;"Middle";"Rural";2021;"No";430.84
+"Asia";"Japan";"Wind";1117.06;7;"High";"Rural";2021;"Yes";391.96
+"Africa";"Egypt";"Solar";129.11;6;"Low";"Urban";2011;"Yes";137.67
+"South America";"Chile";"Wind";1127.73;6;"Middle";"Urban";2018;"No";32.5
+"Europe";"France";"Solar";434.41;6;"High";"Urban";2020;"No";444.85
+"North America";"Canada";"Wind";426.61;2;"Middle";"Urban";2013;"Yes";288.28
+"Africa";"South Africa";"Biomass";710.6;4;"Middle";"Urban";2011;"No";479.49
+"Europe";"UK";"Hydro";807.67;4;"Low";"Urban";2012;"Yes";14.95
+"North America";"Mexico";"Biomass";422.5;4;"Low";"Urban";2013;"No";133.29
+"North America";"Canada";"Solar";901.24;5;"Low";"Urban";2017;"Yes";86.59
+"South America";"Argentina";"Wind";996.1;5;"Low";"Urban";2019;"Yes";250.08
+"Europe";"UK";"Hydro";222.72;8;"Middle";"Urban";2015;"Yes";143.52
+"Australia";"Australia";"Biomass";739.01;3;"Middle";"Urban";2012;"No";277.47
+"Australia";"Australia";"Hydro";1488.63;1;"High";"Urban";2013;"No";95.7
+"Europe";"Italy";"Hydro";830.14;3;"High";"Rural";2018;"Yes";218.31
+"North America";"Mexico";"Hydro";1360.91;3;"Low";"Rural";2013;"No";139.13
+"South America";"Argentina";"Solar";1026.22;7;"Middle";"Urban";2021;"No";108.14
+"Asia";"South Korea";"Solar";689.33;5;"High";"Urban";2010;"No";341.7
+"South America";"Peru";"Wind";50.74;8;"Low";"Rural";2017;"No";241.45
+"North America";"USA";"Solar";181.45;3;"Low";"Rural";2017;"Yes";464.75
+"North America";"Mexico";"Wind";389.26;5;"Middle";"Rural";2013;"Yes";358.02
+"Asia";"China";"Wind";339.68;8;"High";"Rural";2023;"Yes";180.62
+"North America";"USA";"Solar";299.22;2;"Low";"Urban";2011;"No";287.11
+"North America";"Mexico";"Biomass";711.71;1;"Low";"Rural";2016;"Yes";141.3
+"Australia";"New Zealand";"Solar";258.85;3;"High";"Urban";2023;"No";149.83
+"Europe";"Spain";"Biomass";959.31;1;"Low";"Rural";2013;"No";422.9
+"Europe";"Italy";"Geothermal";362.18;4;"Low";"Urban";2021;"Yes";22.6
+"Africa";"Kenya";"Wind";1022.51;2;"Middle";"Urban";2021;"Yes";218.84
+"Africa";"Egypt";"Wind";1087.66;1;"Middle";"Urban";2021;"No";466.9
+"Asia";"India";"Wind";1383.67;3;"Middle";"Urban";2016;"Yes";372.48
+"Asia";"Indonesia";"Wind";916.77;3;"Middle";"Rural";2014;"Yes";94.99
+"North America";"Mexico";"Solar";794.06;3;"Middle";"Urban";2017;"Yes";493.51
+"Africa";"Nigeria";"Wind";1101.17;3;"High";"Urban";2016;"Yes";280.71
+"South America";"Argentina";"Wind";1395.91;6;"High";"Urban";2018;"Yes";66.07
+"Asia";"Japan";"Wind";668.76;2;"Middle";"Urban";2011;"Yes";316.27
+"Australia";"Australia";"Wind";1222.03;8;"High";"Rural";2021;"No";311.59
+"Europe";"UK";"Solar";1290.07;8;"High";"Urban";2015;"Yes";249.95
+"Europe";"Italy";"Wind";848.94;4;"Middle";"Urban";2021;"No";178.62
+"Australia";"Australia";"Wind";343.39;7;"Low";"Urban";2015;"No";331.3
+"North America";"USA";"Geothermal";660.1;2;"Low";"Urban";2021;"Yes";320.43
+"Australia";"New Zealand";"Hydro";1135.58;6;"Low";"Urban";2013;"Yes";72.36
+"Asia";"China";"Geothermal";784.31;2;"High";"Rural";2015;"Yes";305.0
+"Australia";"New Zealand";"Geothermal";1177.81;5;"High";"Rural";2016;"No";379.73
+"Europe";"UK";"Wind";1235.84;7;"Low";"Rural";2013;"Yes";329.12
+"North America";"Mexico";"Solar";927.41;1;"Low";"Urban";2017;"No";67.35
+"South America";"Peru";"Geothermal";1042.19;3;"Low";"Urban";2021;"No";260.05
+"Africa";"Kenya";"Wind";874.6;8;"Middle";"Urban";2014;"No";492.11
+"Australia";"New Zealand";"Hydro";971.34;8;"Middle";"Rural";2020;"Yes";426.38
+"South America";"Argentina";"Solar";1185.11;3;"Middle";"Rural";2017;"No";209.73
+"Asia";"India";"Geothermal";1484.63;6;"Low";"Urban";2022;"Yes";180.59
+"Africa";"Ghana";"Wind";1356.99;4;"Middle";"Urban";2015;"Yes";457.52
+"South America";"Peru";"Biomass";1237.05;4;"High";"Urban";2015;"Yes";317.21
+"South America";"Chile";"Wind";110.45;1;"High";"Urban";2015;"No";24.58
+"Australia";"New Zealand";"Geothermal";517.72;8;"Middle";"Urban";2012;"No";357.91
+"North America";"Mexico";"Biomass";981.16;8;"Low";"Rural";2015;"No";150.51
+"Australia";"New Zealand";"Wind";1300.31;1;"High";"Rural";2018;"Yes";191.05
+"Europe";"Italy";"Wind";913.29;2;"Middle";"Urban";2020;"No";443.63
+"Australia";"New Zealand";"Solar";1262.26;6;"Middle";"Urban";2023;"Yes";81.47
+"Africa";"Ghana";"Wind";86.48;5;"Middle";"Urban";2021;"No";282.14
+"Africa";"Ghana";"Biomass";364.65;1;"Middle";"Urban";2020;"No";467.6
+"Africa";"Kenya";"Biomass";557.0;2;"High";"Urban";2011;"No";174.22
+"Australia";"New Zealand";"Wind";97.32;1;"Low";"Rural";2019;"No";374.78
+"South America";"Peru";"Solar";1377.42;5;"Low";"Rural";2017;"No";458.71
+"South America";"Peru";"Wind";1133.07;8;"Middle";"Urban";2013;"Yes";13.63
+"Asia";"South Korea";"Geothermal";777.57;6;"Middle";"Rural";2019;"No";30.35
+"Europe";"Spain";"Solar";928.81;5;"Middle";"Rural";2011;"No";460.47
+"North America";"USA";"Wind";956.39;5;"Middle";"Rural";2010;"Yes";405.8
+"Asia";"South Korea";"Wind";626.25;1;"Middle";"Rural";2015;"Yes";155.22
+"Africa";"Kenya";"Geothermal";1027.37;3;"Low";"Urban";2023;"Yes";117.92
+"Africa";"Nigeria";"Hydro";1011.05;7;"High";"Rural";2012;"Yes";360.74
+"Asia";"South Korea";"Biomass";286.07;3;"High";"Rural";2020;"No";311.13
+"North America";"USA";"Biomass";1189.32;4;"High";"Urban";2021;"Yes";57.84
+"Europe";"Spain";"Hydro";887.2;6;"Low";"Urban";2015;"No";121.86
+"Australia";"Australia";"Biomass";1100.77;1;"Middle";"Rural";2013;"Yes";192.25
+"North America";"Canada";"Solar";965.89;1;"Low";"Urban";2013;"No";92.12
+"South America";"Argentina";"Hydro";393.01;8;"Low";"Rural";2022;"Yes";485.06
+"Asia";"Japan";"Solar";1112.76;6;"Middle";"Rural";2022;"No";110.24
+"Africa";"Egypt";"Geothermal";716.3;6;"Middle";"Urban";2017;"No";192.01
+"Australia";"New Zealand";"Solar";458.16;3;"High";"Rural";2012;"No";296.43
+"Australia";"New Zealand";"Geothermal";1056.09;6;"Middle";"Rural";2018;"No";404.78
+"Africa";"Kenya";"Hydro";1472.76;1;"Low";"Urban";2012;"Yes";404.59
+"South America";"Brazil";"Wind";290.25;3;"Low";"Rural";2023;"Yes";172.64
+"Australia";"Australia";"Hydro";1013.77;2;"High";"Urban";2010;"No";355.92
+"Europe";"Germany";"Biomass";1441.25;1;"Middle";"Rural";2013;"No";480.67
+"Asia";"South Korea";"Wind";1346.47;1;"Middle";"Rural";2014;"Yes";56.17
+"Australia";"New Zealand";"Solar";1206.11;6;"Middle";"Rural";2014;"No";267.54
+"South America";"Argentina";"Geothermal";433.91;3;"High";"Rural";2010;"Yes";328.67
+"South America";"Peru";"Geothermal";972.83;6;"Middle";"Rural";2021;"Yes";201.19
+"Australia";"New Zealand";"Biomass";425.88;3;"High";"Rural";2021;"Yes";474.97
+"South America";"Argentina";"Solar";66.7;7;"Low";"Rural";2019;"No";66.54
+"Asia";"Japan";"Wind";823.19;7;"Middle";"Urban";2016;"No";55.96
+"Africa";"Ghana";"Biomass";1454.16;2;"Low";"Rural";2018;"No";235.81
+"South America";"Peru";"Solar";308.65;1;"Middle";"Urban";2015;"Yes";48.78
+"Europe";"Italy";"Wind";549.62;8;"High";"Urban";2023;"Yes";70.37
+"Europe";"Spain";"Wind";660.79;1;"Middle";"Rural";2010;"No";14.58
+"Europe";"Germany";"Wind";1472.38;7;"Middle";"Urban";2010;"No";281.57
+"South America";"Brazil";"Geothermal";954.5;6;"High";"Rural";2010;"No";436.23
+"Europe";"France";"Hydro";956.3;7;"Middle";"Rural";2017;"No";441.74
+"South America";"Peru";"Solar";318.79;5;"High";"Rural";2015;"No";64.17
+"South America";"Peru";"Hydro";1348.5;1;"High";"Urban";2017;"Yes";107.01
+"Asia";"India";"Wind";1340.21;1;"Middle";"Urban";2021;"Yes";390.15
+"Africa";"South Africa";"Hydro";1355.38;1;"Middle";"Rural";2013;"No";253.95
+"Africa";"Egypt";"Hydro";1251.95;2;"Low";"Rural";2019;"Yes";59.72
+"Asia";"China";"Biomass";731.01;8;"High";"Urban";2019;"No";286.13
+"Australia";"New Zealand";"Biomass";199.71;1;"Low";"Urban";2010;"No";282.96
+"North America";"USA";"Hydro";1198.5;4;"Middle";"Urban";2010;"No";241.28
+"North America";"Mexico";"Biomass";1197.54;5;"Middle";"Rural";2016;"No";468.34
+"North America";"Mexico";"Geothermal";907.63;5;"Low";"Urban";2010;"No";135.81
+"North America";"USA";"Biomass";284.54;3;"Middle";"Urban";2014;"Yes";484.06
+"Asia";"South Korea";"Geothermal";701.91;3;"Low";"Rural";2018;"Yes";50.93
+"North America";"USA";"Biomass";1010.76;4;"High";"Rural";2011;"Yes";122.21
+"Australia";"Australia";"Solar";870.26;1;"High";"Urban";2021;"Yes";87.51
+"Australia";"Australia";"Hydro";1100.31;8;"Low";"Rural";2012;"No";27.55
+"South America";"Peru";"Biomass";1372.4;8;"Middle";"Urban";2020;"No";364.64
+"Africa";"Kenya";"Solar";820.44;2;"Low";"Rural";2017;"No";186.36
+"Asia";"Indonesia";"Geothermal";539.62;7;"Middle";"Urban";2020;"No";355.94
+"Australia";"Australia";"Geothermal";412.06;3;"High";"Urban";2010;"Yes";338.28
+"Australia";"New Zealand";"Wind";101.46;5;"High";"Urban";2014;"Yes";124.71
+"Asia";"Indonesia";"Solar";659.43;2;"High";"Rural";2014;"Yes";78.47
+"Europe";"Germany";"Hydro";342.48;5;"Middle";"Urban";2022;"Yes";286.86
+"North America";"Canada";"Biomass";1035.46;8;"Low";"Urban";2016;"Yes";17.58
+"Africa";"South Africa";"Solar";1481.86;1;"Low";"Rural";2014;"Yes";334.54
+"South America";"Brazil";"Solar";298.5;4;"High";"Urban";2011;"Yes";461.94
+"South America";"Brazil";"Geothermal";398.67;1;"High";"Urban";2014;"No";25.52
+"Europe";"France";"Solar";115.93;2;"Low";"Rural";2016;"Yes";39.91
+"Europe";"Italy";"Biomass";1236.79;5;"High";"Urban";2017;"No";316.2
+"Asia";"Indonesia";"Biomass";326.61;3;"High";"Urban";2018;"No";371.59
+"Africa";"Egypt";"Hydro";701.2;8;"Middle";"Urban";2020;"No";494.25
+"Africa";"Kenya";"Hydro";791.31;6;"Low";"Rural";2015;"Yes";243.23
+"Australia";"Australia";"Geothermal";770.99;4;"High";"Rural";2013;"No";301.66
+"Australia";"Australia";"Hydro";852.62;2;"Middle";"Rural";2012;"Yes";283.09
+"Asia";"Indonesia";"Wind";486.65;5;"Low";"Urban";2017;"No";127.73
+"Europe";"Italy";"Geothermal";559.76;8;"High";"Rural";2021;"Yes";276.55
+"Australia";"New Zealand";"Biomass";261.94;8;"High";"Rural";2013;"Yes";104.08
+"Europe";"France";"Geothermal";934.04;4;"Low";"Urban";2016;"No";107.76
+"Africa";"Nigeria";"Hydro";1494.96;7;"Low";"Rural";2013;"No";331.45
+"Europe";"Italy";"Hydro";1128.55;4;"Middle";"Urban";2024;"No";108.77
+"Asia";"China";"Hydro";687.45;7;"Low";"Urban";2012;"No";334.92
+"North America";"Canada";"Hydro";930.46;4;"High";"Urban";2015;"No";106.94
+"Europe";"Italy";"Geothermal";153.02;7;"Middle";"Urban";2022;"Yes";176.33
+"Australia";"New Zealand";"Wind";554.0;3;"Middle";"Rural";2016;"Yes";27.97
+"Australia";"New Zealand";"Solar";886.67;8;"Low";"Rural";2024;"Yes";220.85
+"Australia";"New Zealand";"Biomass";735.49;6;"Middle";"Rural";2021;"Yes";104.03
+"Europe";"Spain";"Geothermal";57.04;5;"Low";"Rural";2024;"Yes";264.3
+"Australia";"New Zealand";"Wind";354.79;5;"Low";"Rural";2013;"No";298.02
+"Australia";"Australia";"Hydro";183.68;4;"Middle";"Urban";2023;"No";18.21
+"Australia";"Australia";"Geothermal";1371.51;6;"Middle";"Urban";2010;"Yes";343.43
+"North America";"Canada";"Wind";198.37;2;"High";"Rural";2018;"Yes";497.1
+"Africa";"South Africa";"Biomass";862.68;4;"High";"Urban";2016;"No";155.53
+"South America";"Brazil";"Solar";874.81;6;"High";"Urban";2020;"Yes";363.83
+"Asia";"Japan";"Solar";344.75;2;"Middle";"Rural";2017;"Yes";206.99
+"Europe";"Germany";"Wind";291.76;2;"High";"Rural";2010;"Yes";291.97
+"Europe";"Germany";"Solar";320.1;8;"Low";"Urban";2023;"No";70.91
+"North America";"Mexico";"Hydro";306.52;1;"Low";"Urban";2020;"Yes";145.83
+"Africa";"Ghana";"Geothermal";918.1;2;"Middle";"Rural";2010;"No";56.64
+"Africa";"Egypt";"Geothermal";833.79;2;"Middle";"Rural";2014;"No";462.06
+"Africa";"Kenya";"Solar";247.42;8;"High";"Rural";2019;"Yes";56.71
+"Europe";"Germany";"Biomass";1247.58;3;"High";"Urban";2014;"No";292.31
+"Asia";"Indonesia";"Solar";938.12;3;"Middle";"Rural";2023;"Yes";116.63
+"North America";"Mexico";"Solar";1014.53;6;"Middle";"Rural";2013;"Yes";396.33
+"Europe";"Spain";"Biomass";667.21;2;"High";"Urban";2022;"Yes";261.85
+"Africa";"Nigeria";"Hydro";1330.48;8;"Low";"Urban";2011;"Yes";61.54
+"Asia";"Indonesia";"Geothermal";619.87;2;"Middle";"Rural";2012;"Yes";337.45
+"Europe";"UK";"Geothermal";820.83;2;"Low";"Urban";2011;"No";309.22
+"Africa";"Ghana";"Wind";729.36;7;"Middle";"Rural";2019;"No";41.21
+"Europe";"France";"Geothermal";1387.33;5;"Middle";"Urban";2020;"Yes";113.4
+"Asia";"China";"Solar";376.4;3;"High";"Urban";2019;"No";110.49
+"South America";"Argentina";"Wind";485.51;3;"Middle";"Rural";2022;"Yes";417.43
+"Europe";"Italy";"Biomass";161.34;8;"High";"Rural";2010;"Yes";346.27
+"Australia";"Australia";"Hydro";644.03;1;"High";"Rural";2013;"Yes";393.65
+"Asia";"South Korea";"Biomass";1026.6;2;"Middle";"Urban";2014;"Yes";345.63
+"Australia";"New Zealand";"Solar";539.52;8;"High";"Rural";2010;"No";16.12
+"Asia";"China";"Geothermal";1281.57;5;"Low";"Rural";2016;"No";282.6
+"South America";"Brazil";"Wind";1179.78;2;"Low";"Urban";2013;"No";446.26
+"Australia";"New Zealand";"Hydro";221.33;2;"High";"Rural";2019;"No";27.49
+"Asia";"India";"Biomass";890.8;1;"High";"Rural";2019;"Yes";110.53
+"South America";"Chile";"Biomass";1061.99;8;"Low";"Urban";2013;"Yes";118.86
+"Australia";"New Zealand";"Solar";199.71;6;"High";"Rural";2016;"Yes";313.14
+"Australia";"New Zealand";"Biomass";57.82;8;"High";"Rural";2011;"No";126.11
+"Africa";"South Africa";"Geothermal";351.58;8;"Middle";"Rural";2013;"No";481.3
+"Europe";"Germany";"Biomass";1355.43;4;"Middle";"Rural";2021;"Yes";285.09
+"Australia";"New Zealand";"Wind";261.83;8;"High";"Urban";2016;"No";281.26
+"North America";"USA";"Wind";1346.98;3;"Middle";"Urban";2020;"No";184.69
+"South America";"Brazil";"Hydro";1344.06;1;"Low";"Rural";2013;"No";408.55
+"Australia";"New Zealand";"Solar";316.89;5;"Middle";"Urban";2013;"Yes";396.88
+"Europe";"Spain";"Geothermal";855.03;1;"Low";"Urban";2022;"Yes";93.04
+"Australia";"Australia";"Geothermal";524.57;1;"Low";"Rural";2017;"No";57.28
+"Europe";"Germany";"Hydro";525.59;6;"Low";"Urban";2011;"Yes";183.98
+"North America";"USA";"Biomass";955.43;3;"High";"Urban";2017;"No";441.14
+"South America";"Brazil";"Solar";1077.81;2;"Middle";"Rural";2011;"Yes";111.29
+"North America";"Mexico";"Hydro";1375.37;5;"Middle";"Rural";2019;"Yes";177.69
+"Africa";"Ghana";"Wind";963.7;5;"Low";"Rural";2010;"No";37.82
+"Australia";"Australia";"Biomass";1226.96;7;"Low";"Rural";2022;"No";313.35
+"Europe";"Spain";"Hydro";802.0;4;"High";"Urban";2011;"Yes";322.55
+"Africa";"Egypt";"Biomass";256.31;6;"High";"Rural";2023;"Yes";17.17
+"Australia";"New Zealand";"Solar";372.48;3;"High";"Rural";2022;"Yes";316.9
+"South America";"Peru";"Wind";1337.9;2;"High";"Rural";2012;"Yes";477.06
+"Asia";"India";"Geothermal";400.98;3;"Middle";"Rural";2012;"No";265.21
+"South America";"Colombia";"Geothermal";104.98;8;"High";"Rural";2010;"Yes";367.56
+"Asia";"China";"Solar";563.93;2;"Middle";"Rural";2016;"Yes";467.98
+"South America";"Argentina";"Biomass";346.45;1;"High";"Urban";2013;"Yes";212.42
+"Europe";"Spain";"Wind";517.26;8;"High";"Urban";2010;"Yes";117.7
+"South America";"Colombia";"Solar";1086.17;8;"High";"Rural";2017;"Yes";452.84
+"Australia";"New Zealand";"Hydro";1173.93;2;"Low";"Rural";2011;"No";245.22
+"South America";"Argentina";"Biomass";239.67;2;"High";"Rural";2016;"No";499.31
+"South America";"Argentina";"Hydro";659.36;1;"High";"Urban";2012;"No";80.94
+"Asia";"India";"Geothermal";570.72;4;"Low";"Urban";2014;"No";75.91
+"Australia";"Australia";"Solar";1239.14;4;"High";"Urban";2019;"Yes";19.57
+"North America";"Mexico";"Biomass";174.41;7;"Low";"Urban";2015;"No";70.23
+"Asia";"South Korea";"Biomass";650.9;7;"Low";"Urban";2011;"Yes";225.61
+"Australia";"Australia";"Hydro";754.79;5;"High";"Urban";2017;"No";67.15
+"Europe";"Germany";"Biomass";1244.34;1;"Low";"Rural";2011;"Yes";357.88
+"Europe";"France";"Wind";580.56;6;"Middle";"Rural";2020;"Yes";39.9
+"Australia";"Australia";"Geothermal";820.58;8;"Middle";"Rural";2021;"Yes";49.89
+"Africa";"Ghana";"Biomass";190.7;3;"Middle";"Rural";2023;"Yes";329.71
+"Australia";"New Zealand";"Biomass";192.78;3;"Low";"Urban";2015;"Yes";388.89
+"Africa";"South Africa";"Hydro";306.56;7;"High";"Urban";2014;"No";293.88
+"Australia";"New Zealand";"Geothermal";387.26;7;"Low";"Rural";2015;"No";68.09
+"North America";"Canada";"Solar";193.3;8;"Middle";"Rural";2015;"Yes";80.2
+"Europe";"UK";"Solar";1010.12;5;"Low";"Rural";2021;"Yes";329.8
+"Asia";"Japan";"Geothermal";632.37;5;"High";"Rural";2015;"Yes";227.19
+"Asia";"India";"Geothermal";1185.5;3;"High";"Urban";2018;"Yes";90.64
+"Asia";"India";"Hydro";247.27;6;"High";"Rural";2013;"No";32.42
+"Australia";"Australia";"Solar";860.67;3;"Middle";"Urban";2012;"Yes";65.01
+"North America";"USA";"Hydro";612.23;4;"Middle";"Rural";2010;"Yes";341.19
+"Asia";"South Korea";"Wind";1065.32;3;"Low";"Rural";2010;"No";487.78
+"North America";"Mexico";"Solar";167.82;8;"Middle";"Urban";2017;"No";265.52
+"Europe";"UK";"Biomass";820.14;7;"High";"Urban";2021;"No";96.2
+"Australia";"New Zealand";"Wind";1108.67;4;"Middle";"Rural";2016;"Yes";97.47
+"Australia";"Australia";"Biomass";1102.82;8;"Middle";"Rural";2013;"Yes";359.16
+"North America";"Canada";"Geothermal";402.12;5;"Low";"Rural";2022;"Yes";181.04
+"Asia";"Indonesia";"Biomass";426.53;5;"Middle";"Urban";2021;"No";332.88
+"Africa";"Ghana";"Biomass";1398.67;5;"Middle";"Rural";2011;"No";91.27
+"Africa";"South Africa";"Solar";754.78;8;"High";"Rural";2021;"No";175.59
+"Australia";"New Zealand";"Solar";461.04;2;"High";"Rural";2012;"Yes";453.09
+"Europe";"UK";"Wind";623.89;4;"Low";"Urban";2017;"No";213.8
+"South America";"Chile";"Solar";758.61;8;"Middle";"Urban";2013;"Yes";211.94
+"North America";"Mexico";"Solar";598.91;5;"Low";"Urban";2024;"No";486.03
+"Europe";"Spain";"Wind";707.82;7;"Low";"Rural";2014;"No";416.2
+"North America";"Mexico";"Solar";577.61;4;"Low";"Urban";2019;"No";492.35
+"South America";"Peru";"Biomass";1100.72;5;"Low";"Rural";2010;"No";374.34
+"Europe";"Germany";"Solar";1399.99;6;"High";"Rural";2017;"Yes";253.86
+"Australia";"New Zealand";"Biomass";533.45;4;"High";"Rural";2023;"No";232.2
+"Australia";"Australia";"Solar";118.14;7;"Low";"Rural";2020;"No";235.81
+"Asia";"Indonesia";"Biomass";1179.95;1;"Low";"Urban";2015;"Yes";401.89
+"Australia";"Australia";"Hydro";300.79;8;"Low";"Urban";2018;"Yes";495.09
+"South America";"Colombia";"Solar";1037.11;6;"High";"Urban";2014;"No";460.0
+"South America";"Peru";"Hydro";1175.48;3;"Low";"Urban";2011;"Yes";376.02
+"Australia";"Australia";"Wind";1395.23;1;"Middle";"Rural";2016;"Yes";16.76
+"Asia";"Indonesia";"Geothermal";343.75;1;"Middle";"Rural";2020;"No";462.37
+"South America";"Brazil";"Biomass";812.28;8;"Middle";"Urban";2011;"Yes";413.85
+"Africa";"South Africa";"Solar";323.92;6;"Middle";"Urban";2017;"No";499.83
+"Africa";"South Africa";"Biomass";396.2;3;"Middle";"Rural";2017;"No";438.39
+"South America";"Brazil";"Wind";429.31;7;"High";"Urban";2013;"Yes";388.5
+"Australia";"New Zealand";"Hydro";966.7;8;"Low";"Urban";2021;"Yes";154.26
+"Asia";"Indonesia";"Geothermal";638.32;1;"Low";"Urban";2024;"No";444.83
+"Europe";"Spain";"Wind";413.4;2;"High";"Urban";2016;"No";370.66
+"Asia";"South Korea";"Wind";1035.83;3;"Middle";"Urban";2013;"No";98.5
+"Australia";"New Zealand";"Biomass";1074.31;6;"High";"Urban";2022;"Yes";459.13
+"Asia";"Japan";"Solar";1229.04;3;"Low";"Urban";2013;"No";163.48
+"Europe";"UK";"Hydro";1293.5;3;"High";"Rural";2012;"No";148.49
+"Australia";"Australia";"Biomass";854.26;4;"High";"Rural";2018;"Yes";214.69
+"Africa";"Egypt";"Wind";1313.73;1;"High";"Rural";2015;"Yes";372.82
+"Asia";"Japan";"Solar";71.02;2;"High";"Urban";2016;"Yes";118.49
+"Europe";"France";"Wind";1396.64;5;"Middle";"Rural";2014;"Yes";209.43
+"Africa";"Egypt";"Hydro";543.72;2;"High";"Rural";2022;"Yes";50.91
+"Africa";"Ghana";"Geothermal";728.64;6;"Low";"Rural";2013;"No";349.71
+"North America";"Canada";"Wind";541.52;5;"Low";"Urban";2012;"Yes";18.74
+"Australia";"Australia";"Solar";950.43;6;"Low";"Urban";2022;"Yes";299.94
+"Australia";"New Zealand";"Biomass";1263.37;1;"Middle";"Rural";2013;"No";222.94
+"North America";"USA";"Biomass";417.35;5;"Low";"Urban";2010;"No";242.65
+"Europe";"France";"Geothermal";1425.33;8;"Low";"Rural";2019;"Yes";251.43
+"Europe";"Germany";"Hydro";152.17;6;"High";"Rural";2013;"Yes";309.44
+"North America";"Mexico";"Wind";823.03;4;"Middle";"Urban";2014;"Yes";206.99
+"North America";"Canada";"Geothermal";1215.14;6;"Low";"Rural";2012;"Yes";122.26
+"North America";"Mexico";"Solar";141.65;1;"Middle";"Urban";2022;"Yes";342.38
+"Asia";"China";"Wind";914.09;4;"High";"Rural";2013;"No";401.25
+"North America";"USA";"Geothermal";136.65;4;"Low";"Rural";2019;"Yes";441.45
+"Asia";"Japan";"Solar";500.0;2;"High";"Urban";2019;"Yes";197.48
+"Asia";"Indonesia";"Hydro";765.49;3;"High";"Rural";2011;"Yes";459.54
+"Australia";"New Zealand";"Wind";674.98;7;"Middle";"Urban";2012;"No";90.51
+"Africa";"Nigeria";"Biomass";974.13;6;"Low";"Rural";2018;"No";302.85
+"North America";"USA";"Geothermal";367.1;1;"Low";"Urban";2019;"No";376.82
+"Europe";"Spain";"Hydro";993.58;7;"High";"Rural";2020;"Yes";84.14
+"South America";"Argentina";"Solar";318.37;5;"High";"Rural";2010;"Yes";413.86
+"Australia";"Australia";"Hydro";1305.02;2;"Low";"Urban";2011;"No";87.44
+"Australia";"Australia";"Solar";658.81;8;"Middle";"Urban";2020;"No";393.39
+"Africa";"Egypt";"Wind";1403.52;6;"Middle";"Urban";2023;"No";204.42
+"Australia";"Australia";"Biomass";334.2;7;"Low";"Urban";2020;"Yes";304.71
+"North America";"Canada";"Biomass";797.6;6;"Low";"Rural";2015;"No";184.79
+"North America";"USA";"Wind";386.32;8;"Middle";"Urban";2016;"No";373.91
+"Europe";"France";"Geothermal";1191.39;4;"High";"Urban";2022;"No";411.31
+"Australia";"Australia";"Solar";1359.17;5;"Middle";"Rural";2012;"No";309.45
+"Africa";"Kenya";"Biomass";1465.26;8;"High";"Rural";2021;"No";482.89
+"Asia";"India";"Hydro";863.49;8;"Low";"Urban";2022;"Yes";134.01
+"North America";"USA";"Hydro";791.14;1;"Low";"Urban";2023;"No";268.95
+"North America";"Canada";"Geothermal";1323.12;4;"Low";"Rural";2022;"No";168.23
+"Asia";"China";"Hydro";1381.27;5;"Low";"Urban";2013;"Yes";276.23
+"Europe";"Germany";"Geothermal";663.8;7;"High";"Rural";2020;"Yes";21.35
+"Europe";"Spain";"Solar";751.24;4;"Middle";"Urban";2011;"No";11.02
+"Europe";"Spain";"Biomass";923.21;4;"Middle";"Urban";2022;"No";399.19
+"Europe";"UK";"Solar";828.1;8;"Low";"Rural";2014;"No";286.78
+"Europe";"UK";"Hydro";141.13;4;"High";"Urban";2018;"Yes";149.97
+"Europe";"Germany";"Hydro";309.89;2;"High";"Rural";2011;"No";460.9
+"Australia";"New Zealand";"Wind";745.57;8;"High";"Urban";2020;"No";247.1
+"Africa";"Ghana";"Hydro";75.93;5;"Middle";"Rural";2012;"Yes";265.66
+"Europe";"Italy";"Geothermal";660.67;3;"Middle";"Urban";2019;"Yes";344.5
+"Asia";"China";"Wind";1255.29;8;"High";"Urban";2017;"No";343.01
+"Europe";"France";"Wind";77.93;6;"Middle";"Urban";2016;"No";164.96
+"Asia";"India";"Hydro";655.6;5;"Low";"Rural";2013;"Yes";62.25
+"South America";"Argentina";"Geothermal";367.51;6;"Low";"Rural";2019;"No";46.91
+"Africa";"Nigeria";"Solar";473.84;3;"High";"Rural";2015;"Yes";217.49
+"South America";"Brazil";"Hydro";1459.86;3;"Low";"Urban";2020;"Yes";153.98
+"Africa";"South Africa";"Solar";1304.51;5;"High";"Rural";2020;"No";203.89
+"Africa";"Kenya";"Hydro";967.56;5;"High";"Urban";2010;"No";420.09
+"North America";"Canada";"Wind";985.36;2;"Low";"Urban";2020;"No";29.59
+"North America";"Canada";"Geothermal";124.09;1;"Middle";"Rural";2010;"Yes";345.84
+"North America";"Mexico";"Hydro";106.38;1;"Low";"Rural";2014;"No";471.29
+"South America";"Peru";"Hydro";842.73;3;"High";"Urban";2021;"No";419.23
+"South America";"Colombia";"Biomass";359.5;8;"High";"Rural";2010;"Yes";227.65
+"Asia";"Japan";"Geothermal";545.04;2;"Middle";"Rural";2013;"Yes";188.3
+"North America";"USA";"Geothermal";1461.18;7;"Middle";"Urban";2018;"Yes";388.04
+"South America";"Chile";"Hydro";497.04;7;"Low";"Urban";2012;"No";126.7
+"South America";"Brazil";"Biomass";610.58;4;"Middle";"Rural";2017;"Yes";231.64
+"South America";"Chile";"Biomass";61.65;3;"Middle";"Rural";2018;"Yes";422.86
+"North America";"USA";"Geothermal";1182.2;1;"Middle";"Urban";2017;"No";113.16
+"Africa";"South Africa";"Wind";788.53;6;"High";"Rural";2021;"No";478.82
+"Africa";"Egypt";"Hydro";93.25;7;"Middle";"Rural";2014;"Yes";252.95
+"Asia";"India";"Wind";748.54;7;"Low";"Urban";2010;"No";240.58
+"Europe";"Italy";"Hydro";892.89;3;"Middle";"Urban";2021;"No";93.39
+"Australia";"Australia";"Solar";164.92;2;"Low";"Rural";2018;"No";299.92
+"Asia";"South Korea";"Wind";95.51;5;"High";"Urban";2011;"No";166.81
+"Europe";"Germany";"Solar";271.41;5;"Low";"Rural";2012;"Yes";63.89
+"Africa";"Ghana";"Hydro";445.31;6;"High";"Rural";2019;"Yes";117.02
+"South America";"Chile";"Solar";148.3;7;"Low";"Urban";2015;"No";182.85
+"Asia";"Indonesia";"Solar";531.76;6;"High";"Rural";2021;"No";25.67
+"South America";"Colombia";"Geothermal";1496.45;2;"High";"Urban";2010;"Yes";102.78
+"Europe";"Italy";"Geothermal";396.15;1;"Low";"Urban";2018;"No";266.87
+"South America";"Brazil";"Wind";297.37;5;"High";"Rural";2020;"Yes";424.14
+"Asia";"Indonesia";"Wind";579.79;3;"Middle";"Rural";2019;"Yes";163.41
+"South America";"Colombia";"Wind";328.87;5;"High";"Rural";2021;"No";298.2
+"Europe";"Italy";"Wind";799.88;6;"High";"Rural";2021;"No";177.55
+"Australia";"Australia";"Wind";1084.37;6;"Low";"Rural";2018;"Yes";95.06
+"Asia";"Japan";"Solar";277.03;8;"High";"Rural";2011;"Yes";435.22
+"Asia";"South Korea";"Geothermal";640.56;6;"High";"Rural";2011;"Yes";339.4
+"North America";"Mexico";"Hydro";775.92;3;"Middle";"Rural";2015;"Yes";166.79
+"South America";"Chile";"Hydro";216.46;5;"Middle";"Urban";2012;"No";144.29
+"Africa";"Ghana";"Wind";236.1;6;"High";"Rural";2014;"Yes";150.42
+"Australia";"New Zealand";"Wind";241.75;7;"Low";"Urban";2022;"Yes";146.36
+"Africa";"Egypt";"Solar";968.75;2;"Middle";"Rural";2012;"Yes";242.77
+"Australia";"New Zealand";"Wind";248.28;2;"Middle";"Rural";2013;"Yes";272.79
+"Africa";"Ghana";"Geothermal";462.52;4;"Middle";"Rural";2021;"No";263.66
+"South America";"Argentina";"Hydro";1316.79;2;"High";"Rural";2018;"Yes";416.78
+"Africa";"Egypt";"Wind";1010.32;2;"Middle";"Rural";2021;"No";401.9
+"South America";"Argentina";"Biomass";1091.47;6;"High";"Rural";2019;"No";345.76
+"Australia";"Australia";"Wind";1424.36;1;"Middle";"Rural";2021;"No";184.94
+"North America";"USA";"Solar";630.56;3;"Low";"Rural";2015;"Yes";491.41
+"North America";"Mexico";"Solar";853.16;6;"High";"Urban";2019;"No";136.3
+"Europe";"Spain";"Geothermal";723.62;7;"High";"Rural";2019;"Yes";137.27
+"North America";"USA";"Hydro";318.74;6;"High";"Urban";2017;"Yes";187.16
+"Australia";"Australia";"Hydro";978.75;4;"Low";"Urban";2013;"No";454.84
+"South America";"Argentina";"Solar";684.69;4;"Low";"Urban";2012;"Yes";324.47
+"Europe";"UK";"Geothermal";581.13;4;"Low";"Rural";2020;"Yes";202.93
+"Africa";"South Africa";"Solar";247.48;2;"Low";"Rural";2019;"No";302.65
+"Australia";"New Zealand";"Solar";661.68;4;"High";"Urban";2022;"Yes";472.56
+"Asia";"China";"Hydro";1203.63;2;"High";"Urban";2019;"Yes";371.92
+"Asia";"Japan";"Geothermal";1472.61;7;"Middle";"Urban";2016;"No";43.18
+"South America";"Colombia";"Hydro";1343.52;6;"Low";"Rural";2019;"Yes";446.65
+"Europe";"UK";"Hydro";102.85;3;"Middle";"Rural";2019;"Yes";296.81
+"Europe";"France";"Biomass";1386.19;5;"Middle";"Rural";2017;"No";94.08
+"North America";"Canada";"Solar";77.6;5;"High";"Rural";2015;"No";417.87
+"North America";"USA";"Geothermal";775.65;6;"High";"Urban";2015;"No";10.63
+"Europe";"Spain";"Geothermal";1193.07;4;"High";"Urban";2014;"No";468.66
+"South America";"Argentina";"Geothermal";1016.76;1;"High";"Rural";2023;"No";109.81
+"Africa";"South Africa";"Biomass";851.44;7;"Low";"Urban";2019;"Yes";144.56
+"South America";"Brazil";"Wind";1356.37;2;"Low";"Rural";2011;"Yes";441.62
+"Europe";"France";"Biomass";818.07;8;"High";"Urban";2017;"Yes";247.39
+"Asia";"South Korea";"Hydro";1351.17;1;"High";"Rural";2016;"No";261.96
+"North America";"Canada";"Solar";1037.34;2;"High";"Rural";2016;"No";381.68
+"Asia";"South Korea";"Hydro";518.44;3;"Middle";"Rural";2015;"Yes";256.83
+"Africa";"Nigeria";"Hydro";467.68;1;"Middle";"Urban";2010;"Yes";491.29
+"Asia";"China";"Solar";264.24;6;"Middle";"Rural";2022;"No";264.97
+"Europe";"Italy";"Biomass";300.81;5;"Low";"Urban";2023;"No";66.12
+"Asia";"India";"Solar";1176.43;3;"High";"Rural";2010;"No";432.21
+"Europe";"Spain";"Wind";997.36;8;"Low";"Urban";2020;"No";476.62
+"Africa";"Kenya";"Geothermal";1430.47;1;"Low";"Rural";2021;"No";456.36
+"Australia";"Australia";"Hydro";670.06;6;"Middle";"Rural";2014;"No";227.32
+"Asia";"Japan";"Wind";1021.04;2;"Middle";"Urban";2020;"No";208.63
+"Australia";"Australia";"Solar";1090.11;5;"Middle";"Urban";2010;"Yes";90.24
+"Europe";"Spain";"Hydro";102.21;2;"Low";"Rural";2014;"Yes";361.77
+"Europe";"Germany";"Biomass";1235.23;5;"Low";"Rural";2020;"No";474.51
+"Asia";"Indonesia";"Solar";709.11;1;"Middle";"Rural";2019;"Yes";159.32
+"Australia";"Australia";"Geothermal";1202.68;3;"High";"Rural";2012;"No";61.36
+"South America";"Brazil";"Wind";1484.38;5;"High";"Rural";2016;"No";469.13
+"North America";"Canada";"Geothermal";689.16;3;"High";"Urban";2019;"No";57.95
+"Europe";"Spain";"Wind";1365.8;2;"High";"Urban";2011;"Yes";165.63
+"South America";"Peru";"Geothermal";764.69;8;"High";"Urban";2010;"No";240.57
+"North America";"USA";"Solar";1032.4;3;"Middle";"Rural";2013;"Yes";92.13
+"North America";"Mexico";"Geothermal";72.69;6;"High";"Rural";2014;"No";472.22
+"North America";"USA";"Solar";721.55;7;"High";"Urban";2010;"Yes";163.53
+"South America";"Brazil";"Solar";1111.92;7;"High";"Urban";2020;"Yes";111.27
+"Africa";"South Africa";"Solar";870.61;7;"Low";"Urban";2012;"Yes";429.35
+"Asia";"India";"Wind";978.57;5;"High";"Urban";2013;"No";290.68
+"Europe";"UK";"Geothermal";1174.7;6;"Low";"Rural";2021;"Yes";107.58
+"Asia";"Japan";"Biomass";1013.88;2;"Low";"Urban";2021;"No";495.07
+"Asia";"Japan";"Hydro";272.15;6;"High";"Rural";2022;"Yes";394.18
+"Asia";"Japan";"Wind";1056.65;6;"Middle";"Urban";2018;"No";307.67
+"North America";"USA";"Wind";1182.33;2;"High";"Rural";2019;"No";125.96
+"Europe";"Germany";"Wind";417.88;6;"Middle";"Rural";2010;"Yes";273.25
+"Australia";"Australia";"Biomass";258.91;7;"Middle";"Urban";2017;"Yes";224.35
+"Australia";"New Zealand";"Biomass";455.84;7;"Low";"Urban";2013;"No";252.97
